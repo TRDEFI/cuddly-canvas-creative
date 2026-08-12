@@ -60,7 +60,7 @@ const TRUST = [
   },
 ];
 
-function Price({ now, was }: { now: string; was?: string }) {
+function Price({ now, was }: { now: string; was?: string | undefined }) {
   return (
     <div className="flex items-baseline gap-2.5">
       <span className="font-display text-base font-bold tracking-tight">{now}</span>
@@ -83,7 +83,7 @@ function SmallTile({
   alt: string;
   name: string;
   now: string;
-  was?: string;
+  was?: string | undefined;
   delay: string;
 }) {
   return (
