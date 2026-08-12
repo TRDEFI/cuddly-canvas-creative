@@ -84,6 +84,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "Official licensed plush toys, anime figures and mecha model kits. CE certified, free worldwide shipping, 30-day money back guarantee.",
       },
       { name: "author", content: "PokePlush" },
+      { name: "google-site-verification", content: "99OZLhtJ05cezY4CEd0Ukh_s2_SNM3fCkv7bUKAuWlQ" },
       { property: "og:title", content: "PokePlush — Premium Collectible Plush & Figures" },
       {
         property: "og:description",
@@ -91,7 +92,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "Official licensed plush toys, anime figures and mecha model kits. Free worldwide shipping.",
       },
       { property: "og:type", content: "website" },
+      { property: "og:site_name", content: "PokePlush" },
       { name: "twitter:card", content: "summary_large_image" },
+      {
+        name: "twitter:image",
+        content: "https://pokeplush.online/scraped_data/images/charizard/product_1.jpg",
+      },
     ],
     links: [
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
@@ -104,7 +110,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         rel: "stylesheet",
         href: appCss,
       },
-      { rel: "icon", href: "/favicon.ico", type: "image/x-icon" },
+      { rel: "icon", href: "/favicon.svg?v=2", type: "image/svg+xml" },
     ],
   }),
   shellComponent: RootShell,
@@ -118,6 +124,43 @@ function RootShell({ children }: { children: ReactNode }) {
     <html lang="en">
       <head>
         <HeadContent />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              name: "PokePlush",
+              url: "https://pokeplush.online",
+              logo: "https://pokeplush.online/favicon.svg",
+              contactPoint: {
+                "@type": "ContactPoint",
+                contactType: "customer service",
+                availableLanguage: "English",
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "PokePlush",
+              url: "https://pokeplush.online",
+            }),
+          }}
+        />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5TY5Z8H9NP" />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-5TY5Z8H9NP');`,
+          }}
+        />
       </head>
       <body>
         {children}

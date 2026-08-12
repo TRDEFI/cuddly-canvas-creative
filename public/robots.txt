@@ -1,14 +1,18 @@
+User-agent: *
+Allow: /
+Sitemap: https://pokeplush.online/sitemap.xml
+
+# Google
 User-agent: Googlebot
 Allow: /
 
+# Bing
 User-agent: Bingbot
 Allow: /
 
+# Social Media
 User-agent: Twitterbot
 Allow: /
 
 User-agent: facebookexternalhit
-Allow: /
-
-User-agent: *
 Allow: /

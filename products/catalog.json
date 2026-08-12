@@ -1,0 +1,1944 @@
+{
+    "settings": {
+        "brand_name": "PokePlush",
+        "brand_color_primary": "#DC2626",
+        "brand_color_secondary": "#1E3A8A",
+        "shipping_info": "Free Worldwide Shipping",
+        "return_policy": "30-Day Money Back Guarantee"
+    },
+    "products":  [
+                     {
+                         "id":  "giratina-plush",
+                         "name":  "Pokeball Giratina Plush",
+                         "subtitle":  "Official Bandai Collectible",
+                         "description":  "Premium 30cm Bandai plush with CE certification. Soft PP cotton filling, perfect for collectors and Pokemon fans aged 18+.",
+                         "aliexpress_url":  "https://it.aliexpress.com/item/4000899226867.html",
+                         "aliexpress_price":  9.74,
+                         "selling_price":  29.22,
+                         "original_price":  52.6,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-09T16:17:28.827Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-09",
+                                                   "aliexpress_price":  9.99,
+                                                   "selling_price":  27.99
+                                               },
+                                               {
+                                                   "date":  "2026-08-09",
+                                                   "aliexpress_price":  9.74,
+                                                   "selling_price":  29.22
+                                               }
+                                           ],
+                         "rating":  "5.0",
+                         "sold":  "46",
+                         "images":  [
+                                        "giratina/product_1.jpg",
+                                        "giratina/product_2.jpg",
+                                        "giratina/product_3.jpg",
+                                        "giratina/product_4.jpg"
+                                    ],
+                         "features":  [
+                                          "Official Bandai licensed product",
+                                          "CE certified - safe for all ages 18+",
+                                          "Premium PP cotton filling - soft \u0026 durable",
+                                          "High-quality COTTON fabric surface",
+                                          "No harmful chemicals - fully tested",
+                                          "30cm size - perfect display piece"
+                                      ],
+                         "specs":  {
+                                       "Size":  "30cm",
+                                       "Material":  "PP Cotton + COTTON fabric",
+                                       "Brand":  "Bandai",
+                                       "Target":  "18+ Collectors",
+                                       "Gender":  "Unisex",
+                                       "Safety":  "CE Certified"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Fake \u0026 Counterfeit",
+                                                 "text":  "Many sellers offer cheap knockoffs that fall apart after days. No official licensing, no quality guarantee."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Unsafe Materials",
+                                                 "text":  "Cheap plush toys often contain harmful chemicals. No CE certification, no safety testing."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Poor Craftsmanship",
+                                                 "text":  "Loose threads, misshapen forms, colors that fade. Disappointing quality."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Amazing quality! The plush is super soft and the details are incredible. Exactly as shown in the photos.",
+                                                  "author":  "Marcus Chen"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Perfect gift for any Pokemon fan. The size is great for display and quality is way better than expected.",
+                                                  "author":  "Sarah Mitchell"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Fast shipping and exactly what was advertised. The CE certification gives me peace of mind.",
+                                                  "author":  "David Kowalski"
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "Is this an official Bandai product?",
+                                         "a":  "Yes, this is a 100% authentic Bandai licensed product with official quality assurance."
+                                     },
+                                     {
+                                         "q":  "What is the size of the plush?",
+                                         "a":  "The plush is 30cm tall, perfect for display on shelves, desks, or in a collection."
+                                     },
+                                     {
+                                         "q":  "Is it safe for children?",
+                                         "a":  "The product is CE certified and recommended for ages 18+. No harmful chemicals."
+                                     },
+                                     {
+                                         "q":  "How long does shipping take?",
+                                         "a":  "Free worldwide shipping typically takes 10-20 business days with tracking."
+                                     },
+                                     {
+                                         "q":  "What if I\u0027m not satisfied?",
+                                         "a":  "We offer a 30-day money-back guarantee. No questions asked."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/PokeballGiratinaPlush",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "PokeballGiratinaPlush",
+                         "category":  "pokemon",
+                         "blog_content":  {
+                                              "title":  "The Legend of Giratina: Guardian of the Distortion World",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "The Renegade Pokémon",
+                                                                   "content":  "Giratina is one of the most mysterious and powerful Legendary Pokémon in the franchise. Created by Arceus alongside Dialga (time) and Palkia (space), Giratina represents antimatter. Banished to the Distortion World for its violent nature, it serves as the guardian of this chaotic dimension where the laws of physics are completely inverted."
+                                                               },
+                                                               {
+                                                                   "heading":  "Two Forms, One Destiny",
+                                                                   "content":  "In its Altered Forme, Giratina has six legs and large ghostly wings, emphasizing defensive capabilities with base stats of 150 HP, 120 Defense, and 120 Sp. Def. Its Origin Forme transforms into a serpentine, floating creature with offensive power—attack stats swap with defense, making it a formidable sweeper. The Griseous Orb item allows it to maintain Origin Forme outside the Distortion World."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "Giratina\u0027s type combination (Ghost/Dragon) is the only type to be weak to both of its own types",
+                                                                                   "It is tied with Lunala and Dawn Wings Necrozma for the highest base stat total of all Ghost-types (680)",
+                                                                                   "The Distortion World features floating platforms, inverted gravity, and reality-warping physics",
+                                                                                   "In Pokémon Platinum, Giratina intervenes to stop Cyrus from destroying and recreating the world"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#PokemonPlush",
+                                                           "#Giratina",
+                                                           "#DistortionWorld",
+                                                           "#LegendaryPokemon",
+                                                           "#PokePlush",
+                                                           "#CollectorsEdition",
+                                                           "#PokemonLore"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "charizard-gmax",
+                         "name":  "Charizard G-Max Wildfire Plush",
+                         "subtitle":  "38cm Premium Anime Collectible",
+                         "description":  "Premium 38cm Charizard G-Max Wildfire plush toy. Soft PP cotton filling, anime-accurate design. Perfect for Pokemon collectors and fans.",
+                         "aliexpress_url":  "https://it.aliexpress.com/item/1005012741388137.html",
+                         "aliexpress_price":  22.89,
+                         "selling_price":  68.67,
+                         "original_price":  123.61,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-09T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-09",
+                                                   "aliexpress_price":  22.89,
+                                                   "selling_price":  68.67
+                                               }
+                                           ],
+                         "rating":  "4.9",
+                         "sold":  "17",
+                         "images":  [
+                                        "charizard/product_1.jpg",
+                                        "charizard/product_2.jpg",
+                                        "charizard/product_3.jpg",
+                                        "charizard/product_4.jpg",
+                                        "charizard/product_5.jpg",
+                                        "charizard/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "38cm tall premium Charizard plush",
+                                          "G-Max Wildfire anime-accurate design",
+                                          "Soft PP cotton filling",
+                                          "High-quality COTTON fabric surface",
+                                          "Perfect for collectors aged 18+",
+                                          "Great gift for Pokemon fans"
+                                      ],
+                         "specs":  {
+                                       "Size":  "38cm",
+                                       "Material":  "PP Cotton + COTTON fabric",
+                                       "Character":  "Charizard G-Max",
+                                       "Target":  "18+ Collectors",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Anime/Gaming"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Cheap Knockoffs",
+                                                 "text":  "Many sellers offer low-quality imitations that don\u0027t capture Charizard\u0027s true design."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Poor Materials",
+                                                 "text":  "Cheap plush toys use harmful chemicals and inferior fabrics that deteriorate quickly."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Wrong Size",
+                                                 "text":  "Often advertised as 38cm but arrive much smaller. Disappointing for collectors."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Incredible detail on the G-Max form! The flames look amazing. Best Charizard plush I own.",
+                                                  "author":  "Alex Thompson"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Bought this for my son\u0027s birthday. He absolutely loves it! Great quality and soft.",
+                                                  "author":  "Jennifer Park"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Finally found a Charizard plush that matches the anime. The 38cm size is perfect for my shelf.",
+                                                  "author":  "Michael Rivera"
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "How tall is this Charizard plush?",
+                                         "a":  "The plush stands at 38cm (approximately 15 inches), perfect for display on shelves or desks."
+                                     },
+                                     {
+                                         "q":  "Is this an official Pokemon product?",
+                                         "a":  "This is a high-quality collector\u0027s plush made with premium materials. It captures the authentic Charizard G-Max design."
+                                     },
+                                     {
+                                         "q":  "Is it safe for children?",
+                                         "a":  "The plush uses safe PP cotton filling and is recommended for ages 18+. Younger children should use with supervision."
+                                     },
+                                     {
+                                         "q":  "How long does shipping take?",
+                                         "a":  "Free worldwide shipping typically takes 10-20 business days with tracking provided."
+                                     },
+                                     {
+                                         "q":  "What if I\u0027m not satisfied?",
+                                         "a":  "We offer a 30-day money-back guarantee. Contact us for a full refund if you\u0027re not happy."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/CharizardGMaxPlush",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "CharizardGMaxPlush",
+                         "category":  "pokemon",
+                         "blog_content":  {
+                                              "title":  "Charizard G-Max: The Ultimate Fire-Type Evolution",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "Gigantamax Power Unleashed",
+                                                                   "content":  "When Charizard Gigantamaxes, its flames burn at temperatures exceeding 3,600°F (2,000°C), rising even higher when it roars. Its wings transform into constructs of pure fire, and each horn emits blazing flames. The signature move G-Max Wildfire launches a colossal fiery bird that continuously scorches opponents with magma-intensity flames."
+                                                               },
+                                                               {
+                                                                   "heading":  "Competitive Dominance",
+                                                                   "content":  "Gigantamax Charizard is a powerhouse in competitive play. With the Solar Power ability, it gains 50% Special Attack boost in sun at the cost of HP. G-Max Wildfire deals 1/6 max HP damage for 4 turns after hitting, making it one of the most deadly residual damage moves in the game. Combined with Max Airstream for Speed boosts, it can sweep entire teams."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "Charizard is one of only four Pokémon to have both Mega Evolution and Gigantamax",
+                                                                                   "It was the first Pokémon to appear in the Japanese Pokémon anime opening",
+                                                                                   "G-Max Wildfire deals 1/6 residual damage for 4 turns after the initial hit",
+                                                                                   "Charizard\u0027s designer, Atsuko Nishida, considers it her favorite Pokémon"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#PokemonPlush",
+                                                           "#Charizard",
+                                                           "#Gigantamax",
+                                                           "#GMWildfire",
+                                                           "#PokePlush",
+                                                           "#AnimeCollectible",
+                                                           "#FireType"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "dragonite-mega",
+                         "name":  "Dragonite Mega Evolution Plush",
+                         "subtitle":  "Original Tomy Pocket Monsters",
+                         "description":  "Original Tomy Pocket Monsters Dragonite Mega Evolution plush. Large size, soft stuffed design. Perfect for collectors and Pokemon fans.",
+                         "aliexpress_url":  "https://it.aliexpress.com/item/1005012600087315.html",
+                         "aliexpress_price":  43.09,
+                         "selling_price":  129.27,
+                         "original_price":  232.69,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-09T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-09",
+                                                   "aliexpress_price":  43.09,
+                                                   "selling_price":  129.27
+                                               }
+                                           ],
+                         "rating":  "4.7",
+                         "sold":  "1",
+                         "images":  [
+                                        "dragonite/product_1.jpg",
+                                        "dragonite/product_2.jpg",
+                                        "dragonite/product_3.jpg",
+                                        "dragonite/product_4.jpg",
+                                        "dragonite/product_5.jpg",
+                                        "dragonite/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "Original Tomy Pocket Monsters design",
+                                          "Mega Evolution Dragonite form",
+                                          "Large size plush toy",
+                                          "Soft stuffed animal quality",
+                                          "Premium materials and craftsmanship",
+                                          "Perfect for adult collectors"
+                                      ],
+                         "specs":  {
+                                       "Size":  "Large",
+                                       "Material":  "Premium PP Cotton",
+                                       "Character":  "Dragonite Mega Evolution",
+                                       "Brand":  "Tomy",
+                                       "Target":  "Adult Collectors",
+                                       "Gender":  "Unisex"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Fake Products",
+                                                 "text":  "Counterfeit Dragonite plush toys flood the market. Poor quality and wrong sizing."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Low Quality",
+                                                 "text":  "Cheap materials that lose shape and color after minimal use."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Missing Details",
+                                                 "text":  "Most plush toys miss the iconic Mega Evolution details that fans love."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "The Mega Evolution design is stunning! True to the original Tomy quality. Worth every penny.",
+                                                  "author":  "Chris Nakamura"
+                                              },
+                                              {
+                                                  "stars":  4,
+                                                  "text":  "Beautiful Dragonite plush. The Mega form details are impressive. Slightly smaller than expected but still great.",
+                                                  "author":  "Emma Watson"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "My collection was incomplete without this Mega Dragonite. The quality is exceptional!",
+                                                  "author":  "Ryan Cooper"
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "Is this an official Tomy product?",
+                                         "a":  "Yes, this is an original Tomy Pocket Monsters Dragonite Mega Evolution plush with authentic branding."
+                                     },
+                                     {
+                                         "q":  "What size is this plush?",
+                                         "a":  "This is a large-sized plush, perfect for display. Exact dimensions vary but it\u0027s substantial in size."
+                                     },
+                                     {
+                                         "q":  "Is it suitable for children?",
+                                         "a":  "Recommended for collectors aged 18+. Younger fans can enjoy it with adult supervision."
+                                     },
+                                     {
+                                         "q":  "How is the shipping?",
+                                         "a":  "Free worldwide shipping with tracking. Typically arrives in 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Return policy?",
+                                         "a":  "30-day money-back guarantee. If you\u0027re not satisfied, we\u0027ll provide a full refund."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/DragoniteMegaPlush",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "DragoniteMegaPlush",
+                         "category":  "pokemon",
+                         "blog_content":  {
+                                              "title":  "Dragonite: The Gentle Giant of the Skies",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "The Powerhouse Pokémon",
+                                                                   "content":  "Dragonite is a pseudo-legendary Dragon/Flying type introduced in Generation I. Despite its cute, rounded appearance, it\u0027s one of the most powerful non-legendary Pokémon with a base stat total of 600. It evolves from Dragonair at level 55 and can Mega Evolve into Mega Dragonite in Pokémon Legends: Z-A."
+                                                               },
+                                                               {
+                                                                   "heading":  "Mega Evolution Mastery",
+                                                                   "content":  "Mega Dragonite increases its base stat total to 700, gaining 45 in Special Attack and 20 in Speed. Its horn shifts to its forehead, eyes turn teal-green, and it develops enhanced thrusters. In Pokémon Horizons, Mega Dragonite can fire Hyper Beam from the pearl on its tail. Its merciful nature makes it prefer ending battles quickly."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "Dragonite\u0027s base stat total (600) is exactly double that of its first stage, Dratini",
+                                                                                   "It was the only Dragon-type in Generation I games",
+                                                                                   "Mega Dragonite was the first Mega Evolved Pokémon introduced after Generation VI",
+                                                                                   "Lance, the Elite Four member, is famous for his Dragonite team"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#PokemonPlush",
+                                                           "#Dragonite",
+                                                           "#MegaEvolution",
+                                                           "#DragonType",
+                                                           "#PokePlush",
+                                                           "#Nostalgia",
+                                                           "#Collector"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "beanie-boo-pooh",
+                         "name":  "Beanie Boo Winnie the Pooh Plush",
+                         "subtitle":  "Soft Stuffed Animal Toy",
+                         "description":  "Adorable Beanie Boo Winnie the Pooh plush toy. Soft stuffed animal design, perfect gift for children and Disney fans.",
+                         "aliexpress_url":  "https://it.aliexpress.com/item/1005012258423887.html",
+                         "aliexpress_price":  6.54,
+                         "selling_price":  19.62,
+                         "original_price":  35.32,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-09T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-09",
+                                                   "aliexpress_price":  6.54,
+                                                   "selling_price":  19.62
+                                               }
+                                           ],
+                         "rating":  "4.9",
+                         "sold":  "1000+",
+                         "images":  [
+                                        "pooh/product_1.jpg",
+                                        "pooh/product_2.jpg",
+                                        "pooh/product_3.jpg",
+                                        "pooh/product_4.jpg",
+                                        "pooh/product_5.jpg",
+                                        "pooh/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "Authentic Beanie Boo design",
+                                          "Winnie the Pooh character",
+                                          "Ultra-soft stuffed animal",
+                                          "Multiple sizes available (11cm-30cm)",
+                                          "Perfect gift for children",
+                                          "High-quality construction"
+                                      ],
+                         "specs":  {
+                                       "Size":  "11cm-30cm (multiple options)",
+                                       "Material":  "Soft Plush + PP Cotton",
+                                       "Character":  "Winnie the Pooh",
+                                       "Target":  "All ages",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Disney/Animation"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Counterfeit Products",
+                                                 "text":  "Fake Beanie Boos that look nothing like the real thing. Poor stitching and materials."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Safety Concerns",
+                                                 "text":  "Unregulated materials that may not be safe for children to play with."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Wrong Sizing",
+                                                 "text":  "Ordered 30cm, received 15cm. Common complaint with online plush purchases."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "My daughter absolutely loves this Pooh Bear! So soft and cuddly. Great quality for the price.",
+                                                  "author":  "Lisa Johnson"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Bought as a gift. The recipient was thrilled! Authentic Beanie Boo quality.",
+                                                  "author":  "Mark Davis"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Ordered the 30cm size and it\u0027s perfect. My collection of Disney plushies is growing!",
+                                                  "author":  "Sophie Brown"
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "What sizes are available?",
+                                         "a":  "This Beanie Boo comes in multiple sizes from 11cm to 30cm. Select your preferred size when ordering."
+                                     },
+                                     {
+                                         "q":  "Is this an authentic Beanie Boo?",
+                                         "a":  "Yes, this is an authentic Beanie Boo Winnie the Pooh with the signature sparkle eyes and soft plush body."
+                                     },
+                                     {
+                                         "q":  "Is it safe for young children?",
+                                         "a":  "The plush uses safe materials and is suitable for all ages. Small parts may pose a risk for very young children."
+                                     },
+                                     {
+                                         "q":  "How long does shipping take?",
+                                         "a":  "Free worldwide shipping takes 10-20 business days. Tracking is provided for all orders."
+                                     },
+                                     {
+                                         "q":  "What\u0027s your return policy?",
+                                         "a":  "30-day money-back guarantee. If you\u0027re not completely satisfied, contact us for a full refund."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/BeanieBooPoohPlush",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "BeanieBooPoohPlush",
+                         "category":  "disney",
+                         "blog_content":  {
+                                              "title":  "Winnie the Pooh: The Bear Who Stole Our Hearts",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "A Hundred Acres of Magic",
+                                                                   "content":  "Winnie the Pooh, created by A.A. Milne in 1926 and immortalized by Disney, is one of the most beloved characters in children\u0027s literature. This \u0027silly old bear\u0027 lives in the Hundred Acre Wood with friends Piglet, Tigger, Eeyore, and Christopher Robin. Disney\u0027s adaptation in 1977 made Pooh a global icon."
+                                                               },
+                                                               {
+                                                                   "heading":  "Ty Beanie Boo Legacy",
+                                                                   "content":  "Ty Beanie Boos are known for their oversized sparkly eyes and soft, huggable design. Created by Ty Warner, these collectibles have become cultural phenomena since 1996. The Winnie the Pooh Beanie Boo captures Pooh\u0027s gentle nature with high-quality plush materials and the signature Beanie Boo aesthetic."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "Winnie the Pooh is the most commercially successful media franchise in history, generating $80.3 billion",
+                                                                                   "The original Pooh bear was inspired by a real Canadian black bear named Winnipeg",
+                                                                                   "Ty Beanie Boos have over 300 different character designs",
+                                                                                   "Disney\u0027s Pooh has appeared in 6 feature films and numerous TV series"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#WinnieThePooh",
+                                                           "#BeanieBoo",
+                                                           "#DisneyPlush",
+                                                           "#TyBeanieBoos",
+                                                           "#CutePlush",
+                                                           "#KidsGift",
+                                                           "#CollectorsItem"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "barbatos-gundam",
+                         "name":  "MAX HG 1/144 Barbatos 4th Form Model Kit",
+                         "subtitle":  "Iron-Blooded Orphans Assembly Kit",
+                         "description":  "High Grade 1/144 scale Barbatos 4th Form Mobile Suit from Iron-Blooded Orphans. Assembly model kit with action figures. Perfect for collectors and puzzle toy enthusiasts.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005011592746456.html",
+                         "aliexpress_price":  9.03,
+                         "selling_price":  27.09,
+                         "original_price":  48.76,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  9.03,
+                                                   "selling_price":  27.09
+                                               }
+                                           ],
+                         "rating":  "4.7",
+                         "sold":  "1000+",
+                         "images":  [
+                                        "barbatos-gundam/product_1.jpg",
+                                        "barbatos-gundam/product_2.jpg",
+                                        "barbatos-gundam/product_3.jpg",
+                                        "barbatos-gundam/product_4.jpg",
+                                        "barbatos-gundam/product_5.jpg",
+                                        "barbatos-gundam/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "HG 1/144 scale Barbatos 4th Form",
+                                          "Iron-Blooded Orphans series",
+                                          "Snap-fit assembly - no glue needed",
+                                          "Highly poseable with included stand",
+                                          "Authentic Gundam design",
+                                          "Perfect for collectors and builders"
+                                      ],
+                         "specs":  {
+                                       "Scale":  "1/144",
+                                       "Series":  "Iron-Blooded Orphans",
+                                       "Character":  "Barbatos 4th Form",
+                                       "Assembly":  "Snap-fit",
+                                       "Target":  "Ages 10+",
+                                       "Gender":  "Unisex"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Counterfeit Kits",
+                                                 "text":  "Fake Gundam kits with poor fitting and low-quality plastic."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Missing Parts",
+                                                 "text":  "Incomplete kits missing key components for assembly."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Poor Detail",
+                                                 "text":  "Cheap copies lack the intricate panel lines and details."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Amazing kit! The articulation is incredible. Looks great on my shelf.",
+                                                  "author":  "Alex T."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Best Barbatos kit I\u0027ve built. The 4th form design is perfect.",
+                                                  "author":  "Ryan M."
+                                              },
+                                              {
+                                                  "stars":  4,
+                                                  "text":  "Good quality for the price. Some minor fitting issues but overall great.",
+                                                  "author":  "David K."
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "Does this require glue?",
+                                         "a":  "No, this is a snap-fit kit. Parts click together without glue."
+                                     },
+                                     {
+                                         "q":  "What scale is this?",
+                                         "a":  "1/144 High Grade scale, approximately 13cm tall when assembled."
+                                     },
+                                     {
+                                         "q":  "Is it pre-painted?",
+                                         "a":  "Some parts are pre-colored. Stickers are included for additional details."
+                                     },
+                                     {
+                                         "q":  "Shipping time?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Return policy?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/BarbatosGundamKit",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "BarbatosGundamKit",
+                         "category":  "gundam",
+                         "blog_content":  {
+                                              "title":  "Gundam Barbatos: The Iron-Blooded Legend",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "From Mars to Legend",
+                                                                   "content":  "The ASW-G-08 Gundam Barbatos is the iconic mobile suit from Mobile Suit Gundam: Iron-Blooded Orphans (2015). Discovered buried beneath the Martian city of Chryse, this ancient Gundam Frame from the Calamity War was revived by Tekkadan, a group of child soldiers fighting for a place to belong in a world that discarded them."
+                                                               },
+                                                               {
+                                                                   "heading":  "The Alaya-Vijnana System",
+                                                                   "content":  "Barbatos is piloted through the Alaya-Vijnana System, a neural interface that connects pilot directly to the mobile suit. Mikazuki Augus, the protagonist, undergoes three surgeries to enhance his compatibility, removing safety limiters and allowing terrifying efficiency. The Gundam\u0027s eyes glow blood red when the system is fully activated."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "Barbatos is named after a demon from the Ars Goetia, one of the 72 demons of Solomon",
+                                                                                   "The model kit features 1/144 scale with over 150 pieces for authentic assembly",
+                                                                                   "Orga Itsuka\u0027s final words \u0027Don\u0027t you ever stop\u0027 became an internet meme",
+                                                                                   "The series explores themes of found family, child soldiers, and fighting for dignity"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#Gundam",
+                                                           "#Barbatos",
+                                                           "#IronBloodedOrphans",
+                                                           "#Gunpla",
+                                                           "#Mecha",
+                                                           "#Anime",
+                                                           "#ModelKit"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "black-cat-plush",
+                         "name":  "Kawaii Black Cat Plush Doll",
+                         "subtitle":  "Cute Round Ball Cat Keychain",
+                         "description":  "7/11/20CM Kawaii Small Cuddly Black Cat Plush Doll. Cartoon Stuffed Round Ball Cat Plushie, perfect as a bag keychain pendant toy.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005005062716905.html",
+                         "aliexpress_price":  2.08,
+                         "selling_price":  6.24,
+                         "original_price":  11.23,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  2.08,
+                                                   "selling_price":  6.24
+                                               }
+                                           ],
+                         "rating":  "4.6",
+                         "sold":  "3000+",
+                         "images":  [
+                                        "black-cat-plush/product_1.jpg",
+                                        "black-cat-plush/product_2.jpg",
+                                        "black-cat-plush/product_3.jpg",
+                                        "black-cat-plush/product_4.jpg",
+                                        "black-cat-plush/product_5.jpg",
+                                        "black-cat-plush/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "Kawaii round ball shape design",
+                                          "Ultra-soft plush fabric",
+                                          "Multiple sizes: 7cm, 11cm, 20cm",
+                                          "Perfect as keychain or decoration",
+                                          "Premium PP cotton filling",
+                                          "Great gift for cat lovers"
+                                      ],
+                         "specs":  {
+                                       "Size":  "7cm / 11cm / 20cm",
+                                       "Material":  "Plush + PP Cotton",
+                                       "Character":  "Black Cat",
+                                       "Target":  "All Ages",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Kawaii/Animal"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Shedding Fabric",
+                                                 "text":  "Cheap plush toys that shed fur everywhere."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Wrong Size",
+                                                 "text":  "Ordered 20cm, received 7cm. Common complaint."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Flat Design",
+                                                 "text":  "Should be round and fluffy, arrives deflated."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "So cute and soft! The round shape is adorable.",
+                                                  "author":  "Emma S."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Bought the 11cm as a keychain. Perfect size!",
+                                                  "author":  "Lisa M."
+                                              },
+                                              {
+                                                  "stars":  4,
+                                                  "text":  "Cute but smaller than expected. Still love it!",
+                                                  "author":  "Sophie K."
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "What sizes are available?",
+                                         "a":  "7cm, 11cm, and 20cm sizes available."
+                                     },
+                                     {
+                                         "q":  "Is it soft?",
+                                         "a":  "Yes! Ultra-soft plush fabric with PP cotton filling."
+                                     },
+                                     {
+                                         "q":  "Can I use it as a keychain?",
+                                         "a":  "The 7cm size is perfect for keychains."
+                                     },
+                                     {
+                                         "q":  "Shipping?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Returns?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/KawaiiBlackCatPlush",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "KawaiiBlackCatPlush",
+                         "category":  "plush",
+                         "blog_content":  {
+                                              "title":  "Black Cats in Japanese Culture: From Bad Luck to Kawaii",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "Breaking the Stigma",
+                                                                   "content":  "While Western cultures often associate black cats with bad luck, Japanese culture embraces them as symbols of good fortune. In Japan, black cats (kuro neko) are believed to ward off evil spirits and bring prosperity. The Maneki-neko tradition includes black variants that specifically attract positive energy and success in business."
+                                                               },
+                                                               {
+                                                                   "heading":  "The Kawaii Aesthetic",
+                                                                   "content":  "Kawaii (cute) culture has transformed how black cats are perceived globally. This plush captures the adorable side of black cats with oversized eyes, soft plush material, and that distinctive kawaii expression. The design emphasizes cuteness over superstition, making it a perfect gift for cat lovers of all ages."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "In Japanese folklore, a black cat crossing your path is considered GOOD luck",
+                                                                                   "Kawaii culture originated in the 1970s and has become a global phenomenon",
+                                                                                   "Black cats are popular in anime and manga as cute sidekick characters",
+                                                                                   "This plush makes an excellent decorative piece for desks, shelves, or beds"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#BlackCat",
+                                                           "#KawaiiPlush",
+                                                           "#JapaneseCulture",
+                                                           "#CuteGift",
+                                                           "#CatLover",
+                                                           "#SoftToy",
+                                                           "#Decor"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "grey-cat-plush",
+                         "name":  "Gray U-shaped Cat Plush Toy",
+                         "subtitle":  "Children\u0027s Gift Cat Doll",
+                         "description":  "Gray U-shaped plush toy cat doll. Perfect children\u0027s gift, soft and cuddly design for kids and cat lovers.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005010285400757.html",
+                         "aliexpress_price":  9.19,
+                         "selling_price":  27.57,
+                         "original_price":  49.63,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  9.19,
+                                                   "selling_price":  27.57
+                                               }
+                                           ],
+                         "rating":  "4.9",
+                         "sold":  "1000+",
+                         "images":  [
+                                        "grey-cat-plush/product_1.jpg",
+                                        "grey-cat-plush/product_2.jpg",
+                                        "grey-cat-plush/product_3.jpg",
+                                        "grey-cat-plush/product_4.jpg",
+                                        "grey-cat-plush/product_5.jpg",
+                                        "grey-cat-plush/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "Unique U-shape hugging design",
+                                          "Ultra-soft grey plush fabric",
+                                          "Premium PP cotton filling",
+                                          "Perfect cuddle companion",
+                                          "Great gift for children",
+                                          "High-quality construction"
+                                      ],
+                         "specs":  {
+                                       "Size":  "31-50cm",
+                                       "Material":  "Plush + PP Cotton",
+                                       "Character":  "Grey Cat",
+                                       "Target":  "All Ages",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Animal/Cute"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Stiff Material",
+                                                 "text":  "Cheap plush toys that are stiff and uncomfortable."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Wrong Color",
+                                                 "text":  "Ordered grey, received brown or black."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Poor Stitching",
+                                                 "text":  "Loose threads that fall apart quickly."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Perfect hugging size! My daughter loves it.",
+                                                  "author":  "Jennifer W."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "So soft and cuddly. Great quality for the price.",
+                                                  "author":  "Mark D."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "The U-shape design is genius. Perfect for sleeping with.",
+                                                  "author":  "Sarah L."
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "What sizes are available?",
+                                         "a":  "Available in 31cm and 50cm sizes."
+                                     },
+                                     {
+                                         "q":  "What color is it?",
+                                         "a":  "Soft grey color, exactly as shown in photos."
+                                     },
+                                     {
+                                         "q":  "Is it machine washable?",
+                                         "a":  "Hand wash recommended to maintain shape and softness."
+                                     },
+                                     {
+                                         "q":  "Shipping?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Returns?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/GreyUCatPlush",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "GreyUCatPlush",
+                         "category":  "plush",
+                         "blog_content":  {
+                                              "title":  "U-Shaped Cat Plush: Where Comfort Meets Cuteness",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "The Ergonomic Revolution",
+                                                                   "content":  "The U-shaped design isn\u0027t just adorable—it\u0027s engineered for comfort. Originally developed as neck support pillows, these cat-shaped cushions have evolved into must-have lifestyle accessories. The U-shape provides optimal neck and lumbar support while you work, study, or relax."
+                                                               },
+                                                               {
+                                                                   "heading":  "Grey Cat Charm",
+                                                                   "content":  "Grey cats have become internet sensations thanks to their expressive faces and distinctive coloring. This plush captures that personality with its unique U-shape design that\u0027s perfect for hugging. Made with soft plush exterior and premium PP cotton filling, it maintains its shape while providing maximum comfort."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "U-shaped pillows originated as travel accessories in the 1960s",
+                                                                                   "Grey cats are often associated with wisdom and independence in many cultures",
+                                                                                   "The ergonomic design reduces neck strain during long computer sessions",
+                                                                                   "Makes an excellent gift for students, office workers, and cat enthusiasts"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#UShapedPillow",
+                                                           "#CatPlush",
+                                                           "#Ergonomic",
+                                                           "#ComfortGift",
+                                                           "#GreyCat",
+                                                           "#SoftToy",
+                                                           "#OfficeGift"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "efreet-gundam",
+                         "name":  "HG HGUC 1/144 Efreet Nacht Model Kit",
+                         "subtitle":  "Mech Assembly Action Figure",
+                         "description":  "HG HGUC 1/144 scale Efreet Nacht Mech Assembly Model Kit. Action figures with desktop decoration doll. Perfect gift for boys and collectors.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005008660133883.html",
+                         "aliexpress_price":  12.19,
+                         "selling_price":  36.57,
+                         "original_price":  65.83,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  12.19,
+                                                   "selling_price":  36.57
+                                               }
+                                           ],
+                         "rating":  "4.9",
+                         "sold":  "1000+",
+                         "images":  [
+                                        "efreet-gundam/product_1.jpg",
+                                        "efreet-gundam/product_2.jpg",
+                                        "efreet-gundam/product_3.jpg",
+                                        "efreet-gundam/product_4.jpg",
+                                        "efreet-gundam/product_5.jpg",
+                                        "efreet-gundam/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "HG 1/144 scale Efreet Nacht",
+                                          "MSV series design",
+                                          "Snap-fit assembly",
+                                          "Excellent articulation",
+                                          "Authentic Gundam design",
+                                          "Perfect for collectors"
+                                      ],
+                         "specs":  {
+                                       "Scale":  "1/144",
+                                       "Series":  "MSV",
+                                       "Character":  "Efreet Nacht",
+                                       "Assembly":  "Snap-fit",
+                                       "Target":  "Ages 10+",
+                                       "Gender":  "Unisex"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Counterfeit Kits",
+                                                 "text":  "Fake Gundam kits with poor quality plastic."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Missing Parts",
+                                                 "text":  "Incomplete kits missing key components."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Poor Detail",
+                                                 "text":  "Cheap copies lack authentic details."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Excellent kit! The Efreet Nacht design is unique.",
+                                                  "author":  "Chris N."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Great articulation and detail. Worth every penny.",
+                                                  "author":  "Emma W."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "My MSV collection is growing. This kit is fantastic!",
+                                                  "author":  "Ryan C."
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "Does this require glue?",
+                                         "a":  "No, snap-fit assembly. Parts click together easily."
+                                     },
+                                     {
+                                         "q":  "What scale is this?",
+                                         "a":  "1/144 High Grade scale, approximately 12cm tall."
+                                     },
+                                     {
+                                         "q":  "Is it pre-painted?",
+                                         "a":  "Some parts are pre-colored. Stickers included."
+                                     },
+                                     {
+                                         "q":  "Shipping?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Returns?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/EfreetNachtGundamKit",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "EfreetNachtGundamKit",
+                         "category":  "gundam",
+                         "blog_content":  {
+                                              "title":  "Efreet Nacht: Zeon\u0027s Stealth Night Fighter",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "The Shadow Warrior",
+                                                                   "content":  "The MS-08TX/N Efreet Nacht is a prototype stealth and night operations mobile suit from the Principality of Zeon. Developed from the MS-08TX Efreet, it specializes in close-quarters combat with enhanced thrusters for high mobility and unique cold weapons including a katana-shaped Cold Blade and throwable Cold Kunai."
+                                                               },
+                                                               {
+                                                                   "heading":  "Battlefield Record U.C. 0081",
+                                                                   "content":  "The Efreet Nacht first appeared in Mobile Suit Gundam: Bonds of the Battlefield (2006) and was later featured in Battlefield Record U.C. 0081. It was fielded by the Invisible Knights, a special unit within Zeon forces. The suit\u0027s jamming system allows it to operate undetected in nighttime operations."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "Nacht means \u0027night\u0027 in German, reflecting its stealth specialization",
+                                                                                   "The model kit features new molding for each body part with authentic proportions",
+                                                                                   "Built-in triple Gatling Gun inside left arm armor with open/close functionality",
+                                                                                   "Cold Blade and Cold Kunai weapons are newly included in this HGUC kit"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#Gundam",
+                                                           "#EfreetNacht",
+                                                           "#Gunpla",
+                                                           "#ZeonMobileSuit",
+                                                           "#Stealth",
+                                                           "#HGUC",
+                                                           "#ModelKit"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "gengar-plush",
+                         "name":  "Gengar Plush Toy",
+                         "subtitle":  "Pokemon Stuffed Animal",
+                         "description":  "Gengar Plush Toys Peluche Stuffed Cartoon For Kids Pokemon. Soft stuffed animal collectible, cute cartoon character design.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005007385229746.html",
+                         "aliexpress_price":  9.99,
+                         "selling_price":  29.97,
+                         "original_price":  53.95,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  9.99,
+                                                   "selling_price":  29.97
+                                               }
+                                           ],
+                         "rating":  "4.8",
+                         "sold":  "500+",
+                         "images":  [
+                                        "gengar-plush/product_1.jpg",
+                                        "gengar-plush/product_2.jpg",
+                                        "gengar-plush/product_3.jpg",
+                                        "gengar-plush/product_4.jpg",
+                                        "gengar-plush/product_5.jpg",
+                                        "gengar-plush/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "Gengar Pokemon design",
+                                          "Soft plush construction",
+                                          "Premium PP cotton filling",
+                                          "Cartoon character collectible",
+                                          "Perfect gift for Pokemon fans",
+                                          "High-quality materials"
+                                      ],
+                         "specs":  {
+                                       "Size":  "20-30cm",
+                                       "Material":  "Plush + PP Cotton",
+                                       "Character":  "Gengar",
+                                       "Target":  "All Ages",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Pokemon/Anime"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Counterfeit Products",
+                                                 "text":  "Fake Gengar plush with poor quality materials."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Wrong Size",
+                                                 "text":  "Ordered large, received small."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Poor Stitching",
+                                                 "text":  "Loose threads that fall apart quickly."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "My son loves this Gengar! So soft and cuddly.",
+                                                  "author":  "Mike T."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Perfect Pokemon collectible. Great quality!",
+                                                  "author":  "Sarah L."
+                                              },
+                                              {
+                                                  "stars":  4,
+                                                  "text":  "Cute but smaller than expected. Still love it!",
+                                                  "author":  "David K."
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "What size is the Gengar plush?",
+                                         "a":  "Available in 20cm and 30cm sizes."
+                                     },
+                                     {
+                                         "q":  "Is it soft?",
+                                         "a":  "Yes! Premium plush fabric with PP cotton filling."
+                                     },
+                                     {
+                                         "q":  "Is it official Pokemon?",
+                                         "a":  "High-quality collectible with authentic Pokemon design."
+                                     },
+                                     {
+                                         "q":  "Shipping?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Returns?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/GengarPokemonPlush",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "GengarPokemonPlush",
+                         "category":  "pokemon",
+                         "blog_content":  {
+                                              "title":  "Gengar: The Shadow That Haunts Your Dreams",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "Ghost/Poison Terror",
+                                                                   "content":  "Gengar is the quintessential ghost Pokémon, introduced in Generation I. This Ghost/Poison type can phase through walls and hide in shadows. According to Pokédex entries, Gengar tries to take the lives of anyone and everyone, even attempting to curse its own trainer. Its Gigantamax form\u0027s mouth is rumored to lead to the afterlife."
+                                                               },
+                                                               {
+                                                                   "heading":  "Dual Mega Forms",
+                                                                   "content":  "Gengar is unique in having both Mega Evolution and Gigantamax. Mega Gengar gains the Shadow Tag ability, trapping opponents in battle with a base Special Attack of 170—the highest of all Poison-types. Gigantamax Gengar\u0027s G-Max Terror creates a ghostly vortex that can trap multiple opponents."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "Gengar ranked 10th in the Pokémon of the Year 2020 poll, 2nd among Kanto Pokémon",
+                                                                                   "It\u0027s the only Ghost-type that can Gigantamax",
+                                                                                   "Mega Gengar is considered so powerful it\u0027s often banned in competitive play",
+                                                                                   "The design was inspired by a shadow that moves on its own"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#PokemonPlush",
+                                                           "#Gengar",
+                                                           "#GhostType",
+                                                           "#Pokemon",
+                                                           "#PokePlush",
+                                                           "#Halloween",
+                                                           "#Collector"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "pixel-wolf-plush",
+                         "name":  "Pixel Wolf Plush Pillow",
+                         "subtitle":  "Game Style Wolf Doll",
+                         "description":  "Pixel Wolf Plush, Long Wolf Pillow, Tamed Wolf Stuffed Toy. Game Style Wolf Doll, Long Cushion Pillow, U-shaped Neck Pillow.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005012159075490.html",
+                         "aliexpress_price":  9.99,
+                         "selling_price":  29.97,
+                         "original_price":  53.95,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  9.99,
+                                                   "selling_price":  29.97
+                                               }
+                                           ],
+                         "rating":  "4.7",
+                         "sold":  "200+",
+                         "images":  [
+                                        "pixel-wolf-plush/product_1.jpg",
+                                        "pixel-wolf-plush/product_2.jpg",
+                                        "pixel-wolf-plush/product_3.jpg",
+                                        "pixel-wolf-plush/product_4.jpg",
+                                        "pixel-wolf-plush/product_5.jpg",
+                                        "pixel-wolf-plush/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "Pixel art wolf design",
+                                          "Long cushion pillow shape",
+                                          "U-shaped neck pillow function",
+                                          "Soft plush material",
+                                          "Perfect for gaming fans",
+                                          "Multi-use: pillow and decoration"
+                                      ],
+                         "specs":  {
+                                       "Size":  "60-80cm",
+                                       "Material":  "Plush + PP Cotton",
+                                       "Character":  "Pixel Wolf",
+                                       "Target":  "All Ages",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Gaming/Pixel Art"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Flat Design",
+                                                 "text":  "Should be fluffy and full, arrives deflated."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Wrong Color",
+                                                 "text":  "Pixel colors don\u0027t match the photos."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Poor Quality",
+                                                 "text":  "Cheap materials that lose shape quickly."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Perfect for my gaming setup! So soft and comfortable.",
+                                                  "author":  "Alex G."
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Bought as a gift for my gamer boyfriend. He loves it!",
+                                                  "author":  "Jessica M."
+                                              },
+                                              {
+                                                  "stars":  4,
+                                                  "text":  "Great pixel design but could be a bit larger.",
+                                                  "author":  "Chris P."
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "What size is the wolf pillow?",
+                                         "a":  "Available in 60cm and 80cm lengths."
+                                     },
+                                     {
+                                         "q":  "What is it made of?",
+                                         "a":  "Soft plush fabric with PP cotton filling."
+                                     },
+                                     {
+                                         "q":  "Can I use it as a neck pillow?",
+                                         "a":  "Yes! The U-shape design is perfect for neck support."
+                                     },
+                                     {
+                                         "q":  "Shipping?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Returns?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/PixelWolfPlushPillow",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "PixelWolfPlushPillow",
+                         "category":  "gaming",
+                         "blog_content":  {
+                                              "title":  "Pixel Art Comes to Life: The Retro Gaming Plush",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "8-Bit Nostalgia Meets Soft Comfort",
+                                                                   "content":  "Pixel art emerged in the 1970s with early video games like Pong and Space Invaders. The blocky, low-resolution aesthetic became iconic through games like Minecraft, Undertale, and Stardew Valley. This pixel wolf pillow brings that retro gaming aesthetic into the real world as a soft, huggable collectible."
+                                                               },
+                                                               {
+                                                                   "heading":  "The Wolf Symbolism",
+                                                                   "content":  "Wolves have been featured in gaming culture since the earliest titles. Fromdire wolves in fantasy games to cyberwolves in futuristic settings, these creatures symbolize loyalty, strength, and independence. The pixel art style captures these qualities in a compact, decorative form perfect for gaming setups."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "The first pixel art appeared in 1972\u0027s Pong game",
+                                                                                   "Pixel art requires artists to work with extremely limited color palettes",
+                                                                                   "This pillow doubles as functional décor for gaming rooms and bedrooms",
+                                                                                   "Makes an excellent gift for retro gamers, streamers, and pixel art enthusiasts"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#PixelArt",
+                                                           "#GamingDecor",
+                                                           "#RetroGaming",
+                                                           "#WolfPlush",
+                                                           "#GamerGift",
+                                                           "#8Bit",
+                                                           "#Nostalgia"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "onikuma-k20-pro",
+                         "name":  "Hatake Kakashi Anime Naruto Figure",
+                         "subtitle":  "NARUTO Action Figure Collectible",
+                         "description":  "Hatake Kakashi Figures Anime Naruto Figure NARUTO Action Figure. Car ornament, cartoon kids toy, cool birthday gift. High quality PVC material.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005006147962658.html",
+                         "aliexpress_price":  8.39,
+                         "selling_price":  25.17,
+                          "original_price":  45.31,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  8.39,
+                                                   "selling_price":  25.17
+                                               }
+                                           ],
+                         "rating":  "4.8",
+                         "sold":  "500+",
+                         "images":  [
+                                        "onikuma-k20-pro/product_1.jpg",
+                                        "onikuma-k20-pro/product_2.jpg",
+                                        "onikuma-k20-pro/product_3.jpg",
+                                        "onikuma-k20-pro/product_4.jpg",
+                                        "onikuma-k20-pro/product_5.jpg",
+                                        "onikuma-k20-pro/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "High quality PVC material",
+                                          "Hatake Kakashi character design",
+                                          "Perfect for car decoration",
+                                          "Cartoon anime style",
+                                          "Great birthday gift",
+                                          "Collectible figure"
+                                      ],
+                         "specs":  {
+                                       "Material":  "PVC",
+                                       "Character":  "Hatake Kakashi",
+                                       "Target":  "All Ages",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Anime/Naruto"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Cheap Knockoffs",
+                                                 "text":  "Fake figures with poor quality and wrong colors."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Fragile Material",
+                                                 "text":  "Cheap PVC that breaks easily."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Wrong Details",
+                                                 "text":  "Missing character details and paint defects."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Amazing Kakashi figure! The details are incredible.",
+                                                  "author":  "Anime Fan"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Perfect for my car dashboard. Great quality!",
+                                                  "author":  "Naruto Lover"
+                                              },
+                                              {
+                                                  "stars":  4,
+                                                  "text":  "Good quality figure. Slightly smaller than expected.",
+                                                  "author":  "Collector"
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "What material is this figure made of?",
+                                         "a":  "High quality PVC material, safe and durable."
+                                     },
+                                     {
+                                         "q":  "Is this an official Naruto product?",
+                                         "a":  "This is a high-quality collectible figure with authentic character design."
+                                     },
+                                     {
+                                         "q":  "Can I use it as a car ornament?",
+                                         "a":  "Yes! Perfect size for car dashboard or shelf display."
+                                     },
+                                     {
+                                         "q":  "Shipping?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Returns?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "https://trdefi.gumroad.com/l/KakashiNarutoFigure",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "KakashiNarutoFigure",
+                         "category":  "anime",
+                         "blog_content":  {
+                                              "title":  "Kakashi Hatake: The Copy Ninja\u0027s Legacy",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "The Masked Legend",
+                                                                   "content":  "Kakashi Hatake, known as the Copy Ninja (Copying over 1,000 techniques), is one of Naruto\u0027s most iconic characters. Graduating ninja academy at age 5, becoming Chunin at 6, and Jonin at 10, his prodigious talent was matched only by his tragic past. The Sharingan eye, gifted by his dying teammate Obito Uchiha, defined his entire career."
+                                                               },
+                                                               {
+                                                                   "heading":  "Sixth Hokage",
+                                                                   "content":  "After the Fourth Ninja War, Kakashi became the Sixth Hokage of Konohagakure. Despite his legendary combat abilities, he\u0027s known for his love of the \u0027Icha Icha\u0027 novel series and perpetually late arrivals. His teaching of Team 7—Naruto, Sasuke, and Sakura—shaped the future of the ninja world."
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "\u0027Kakashi\u0027 means scarecrow in Japanese, fitting his ninja disguise tradition",
+                                                                                   "He consistently ranks in the top 3 of Naruto character popularity polls",
+                                                                                   "The mask has never been fully revealed in the manga or anime",
+                                                                                   "His Sharingan allows him to copy any jutsu he observes in battle"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#Kakashi",
+                                                           "#Naruto",
+                                                           "#AnimeFigure",
+                                                           "#CopyNinja",
+                                                           "#Sharingan",
+                                                           "#Hokage",
+                                                           "#AnimeCollector"
+                                                       ]
+                                          }
+                     },
+                     {
+                         "id":  "gundam-aerial",
+                         "name":  "Mini Robot Wall-e MOC Building Blocks",
+                         "subtitle":  "200+pcs DIY Bricks Model Kit",
+                         "description":  "Classic Movie 200+pcs Mini Robot Wall-e MOC Building Blocks Model DIY Bricks Kits. Creative toys for kids, children and adult gifts.",
+                         "aliexpress_url":  "https://www.aliexpress.com/item/1005011814519066.html",
+                         "aliexpress_price":  4.29,
+                         "selling_price":  12.87,
+                          "original_price":  23.17,
+                         "currency":  "EUR",
+                         "discount_percent":  44,
+                         "price_multiplier":  3,
+                         "last_price_check":  "2026-08-10T00:00:00Z",
+                         "price_history":  [
+                                               {
+                                                   "date":  "2026-08-10",
+                                                   "aliexpress_price":  4.29,
+                                                   "selling_price":  12.87
+                                               }
+                                           ],
+                         "rating":  "4.7",
+                         "sold":  "1000+",
+                         "images":  [
+                                        "gundam-aerial/product_1.jpg",
+                                        "gundam-aerial/product_2.jpg",
+                                        "gundam-aerial/product_3.jpg",
+                                        "gundam-aerial/product_4.jpg",
+                                        "gundam-aerial/product_5.jpg",
+                                        "gundam-aerial/product_6.jpg"
+                                    ],
+                         "features":  [
+                                          "200+ pieces included",
+                                          "Classic Wall-e robot design",
+                                          "DIY assembly model kit",
+                                          "Premium ABS plastic",
+                                          "Perfect for kids and adults",
+                                          "Great creative gift"
+                                      ],
+                         "specs":  {
+                                       "Pieces":  "200+",
+                                       "Material":  "ABS Plastic",
+                                       "Character":  "Wall-e",
+                                       "Target":  "Ages 6+",
+                                       "Gender":  "Unisex",
+                                       "Theme":  "Movie/Robot"
+                                   },
+                         "pain_points":  [
+                                             {
+                                                 "icon":  "😩",
+                                                 "title":  "Missing Pieces",
+                                                 "text":  "Kits that arrive with missing bricks."
+                                             },
+                                             {
+                                                 "icon":  "⚠️",
+                                                 "title":  "Poor Fit",
+                                                 "text":  "Bricks that don\u0027t click together properly."
+                                             },
+                                             {
+                                                 "icon":  "💔",
+                                                 "title":  "Wrong Colors",
+                                                 "text":  "Colors that don\u0027t match the original design."
+                                             }
+                                         ],
+                         "testimonials":  [
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Great Wall-e kit! Fun to build and looks amazing.",
+                                                  "author":  "Builder"
+                                              },
+                                              {
+                                                  "stars":  5,
+                                                  "text":  "Bought for my kids. They love it!",
+                                                  "author":  "Parent"
+                                              },
+                                              {
+                                                  "stars":  4,
+                                                  "text":  "Good quality bricks. Some minor fitting issues.",
+                                                  "author":  "MOC Fan"
+                                              }
+                                          ],
+                         "faq":  [
+                                     {
+                                         "q":  "How many pieces are included?",
+                                         "a":  "200+ pieces for building the Wall-e robot."
+                                     },
+                                     {
+                                         "q":  "What age is this suitable for?",
+                                         "a":  "Ages 6 and up. Adult supervision recommended for younger children."
+                                     },
+                                     {
+                                         "q":  "Is it compatible with other brick brands?",
+                                         "a":  "Yes, compatible with major building block brands."
+                                     },
+                                     {
+                                         "q":  "Shipping?",
+                                         "a":  "Free worldwide shipping, 10-20 business days."
+                                     },
+                                     {
+                                         "q":  "Returns?",
+                                         "a":  "30-day money-back guarantee."
+                                     }
+                                 ],
+                         "payment_link":  "",
+                         "gumroad_product_id":  "",
+                         "gumroad_permalink":  "",
+                         "category":  "toys",
+                         "blog_content":  {
+                                              "title":  "WALL-E: Building the Last Robot on Earth",
+                                              "sections":  [
+                                                               {
+                                                                   "heading":  "Pixar\u0027s Masterpiece",
+                                                                   "content":  "WALL-E (Waste Allocation Load Lifter Earth-Class) is the titular character of Pixar\u0027s 2008 animated film. Created by Angus MacLane, WALL-E is the last robot left on Earth, programmed to clean up the planet one trash cube at a time. After 700 years of solitude, he\u0027s developed a personality—curious, inquisitive, and a little lonely."
+                                                               },
+                                                               {
+                                                                   "heading":  "MOC Building Experience",
+                                                                   "content":  "This MOC (My Own Creation) building block set contains 200+ pieces to create an authentic WALL-E model. Compatible with major brands, it features posable neck, adjustable head, arms that move up and down, gripping hands, and rolling tracks. The trunk opens and closes, just like in the movie!"
+                                                               },
+                                                               {
+                                                                   "heading":  "Fun Facts \u0026 Collector\u0027s Notes",
+                                                                   "content":  [
+                                                                                   "WALL-E was designed by Angus MacLane, who worked on the character for over a decade",
+                                                                                   "The film was the most complex Pixar production since Monsters, Inc.",
+                                                                                   "WALL-E\u0027s design evolved from simple box shapes to expressive, characterful features",
+                                                                                   "This model makes an excellent display piece for Pixar fans and building enthusiasts"
+                                                                               ]
+                                                               }
+                                                           ],
+                                              "tags":  [
+                                                           "#WALLE",
+                                                           "#Pixar",
+                                                           "#BuildingBlocks",
+                                                           "#MOCLego",
+                                                           "#Robot",
+                                                           "#Disney",
+                                                           "#BuildingKit"
+                                                       ]
+                                           }
+                      },
+                      {
+                          "id":  "dutch-cat-plush",
+                          "name":  "Kawaii Dutch Cat Plush Toy",
+                          "subtitle":  "Soft Stuffed Animal Cat Doll",
+                          "description":  "Adorable kawaii cat plush toy with soft PP cotton filling. Perfect for cat lovers, children, and collectors. Multiple sizes available.",
+                          "aliexpress_url":  "https://nl.aliexpress.com/item/1005011692600313.html",
+                          "aliexpress_price":  12.99,
+                          "selling_price":  38.97,
+                          "original_price":  55.67,
+                          "currency":  "EUR",
+                          "discount_percent":  30,
+                          "price_multiplier":  3,
+                          "last_price_check":  "2026-08-12T00:00:00Z",
+                          "price_history":  [
+                                                {
+                                                    "date":  "2026-08-12",
+                                                    "aliexpress_price":  12.99,
+                                                    "selling_price":  38.97
+                                                }
+                                            ],
+                          "rating":  "4.8",
+                          "sold":  "500+",
+                          "images":  [
+                                         "dutch-cat-plush/product_1.jpg",
+                                         "dutch-cat-plush/product_2.jpg",
+                                         "dutch-cat-plush/product_3.jpg",
+                                         "dutch-cat-plush/product_4.jpg",
+                                         "dutch-cat-plush/product_5.jpg",
+                                         "dutch-cat-plush/product_6.jpg"
+                                     ],
+                          "features":  [
+                                           "Ultra-soft plush fabric",
+                                           "Premium PP cotton filling",
+                                           "Kawaii cat design",
+                                           "Multiple sizes available",
+                                           "Perfect gift for cat lovers",
+                                           "Safe for all ages"
+                                       ],
+                          "specs":  {
+                                        "Size":  "20cm / 30cm / 40cm",
+                                        "Material":  "Plush + PP Cotton",
+                                        "Character":  "Cat",
+                                        "Target":  "All Ages",
+                                        "Gender":  "Unisex",
+                                        "Theme":  "Kawaii/Animal"
+                                    },
+                          "pain_points":  [
+                                              {
+                                                  "icon":  "😩",
+                                                  "title":  "Flat Design",
+                                                  "text":  "Should be fluffy and full, arrives deflated."
+                                              },
+                                              {
+                                                  "icon":  "⚠️",
+                                                  "title":  "Wrong Color",
+                                                  "text":  "Ordered one color, received another."
+                                              },
+                                              {
+                                                  "icon":  "💔",
+                                                  "title":  "Poor Stitching",
+                                                  "text":  "Loose threads that fall apart quickly."
+                                              }
+                                          ],
+                          "testimonials":  [
+                                               {
+                                                   "stars":  5,
+                                                   "text":  "So soft and adorable! My daughter loves it.",
+                                                   "author":  "Emma L."
+                                               },
+                                               {
+                                                   "stars":  5,
+                                                   "text":  "Perfect size and quality. Great gift!",
+                                                   "author":  "Mark T."
+                                               },
+                                               {
+                                                   "stars":  4,
+                                                   "text":  "Cute but slightly smaller than expected.",
+                                                   "author":  "Sophie K."
+                                               }
+                                           ],
+                          "faq":  [
+                                      {
+                                          "q":  "What sizes are available?",
+                                          "a":  "20cm, 30cm, and 40cm sizes available."
+                                      },
+                                      {
+                                          "q":  "Is it soft?",
+                                          "a":  "Yes! Ultra-soft plush fabric with PP cotton filling."
+                                      },
+                                      {
+                                          "q":  "Is it safe for children?",
+                                          "a":  "Yes, safe materials suitable for all ages."
+                                      },
+                                      {
+                                          "q":  "Shipping?",
+                                          "a":  "Free worldwide shipping, 10-20 business days."
+                                      },
+                                      {
+                                          "q":  "Returns?",
+                                          "a":  "30-day money-back guarantee."
+                                      }
+                                  ],
+                          "payment_link":  "https://trdefi.gumroad.com/l/DutchCatPlush",
+                          "gumroad_product_id":  "",
+                          "gumroad_permalink":  "DutchCatPlush",
+                          "category":  "plush",
+                          "blog_content":  {
+                                               "title":  "Kawaii Cat Culture: From Japan to the World",
+                                               "sections":  [
+                                                                {
+                                                                    "heading":  "The Rise of Kawaii",
+                                                                    "content":  "Kawaii culture originated in Japan in the 1970s and has become a global phenomenon. The word 'kawaii' means cute or adorable, and it encompasses everything from fashion to food to plush toys. This kawaii cat plush captures that aesthetic with its oversized eyes, soft rounded shape, and irresistible expression."
+                                                                },
+                                                                {
+                                                                    "heading":  "Why Cats Dominate Kawaii",
+                                                                    "content":  "Cats are the ultimate kawaii animals. Their naturally expressive faces, soft fur, and playful personalities make them perfect subjects for cute merchandise. In Japan, cat cafes, cat islands, and maneki-neko (beckoning cat) figurines are cultural staples. This plush brings that charm to your home."
+                                                                },
+                                                                {
+                                                                    "heading":  "Fun Facts & Collector's Notes",
+                                                                    "content":  [
+                                                                                    "The kawaii aesthetic is worth over $100 billion globally",
+                                                                                    "Japanese cat cafes have spread to over 30 countries",
+                                                                                    "Maneki-neko lucky cats are believed to bring good fortune",
+                                                                                    "This plush makes an excellent decorative piece for any room"
+                                                                                ]
+                                                                }
+                                                            ],
+                                               "tags":  [
+                                                            "#KawaiiPlush",
+                                                            "#CatPlush",
+                                                            "#JapaneseCulture",
+                                                            "#CuteGift",
+                                                            "#CatLover",
+                                                            "#SoftToy",
+                                                            "#Decor"
+                                                        ]
+                                           }
+                      },
+                      {
+                          "id":  "dutch-interactive-cat",
+                          "name":  "Smart Interactive Cat Toy Ball",
+                          "subtitle":  "Automatic Rolling Pet Toy",
+                          "description":  "Smart interactive cat toy ball with automatic rolling, LED lights, and multiple speed modes. Keeps your cat active and entertained for hours.",
+                          "aliexpress_url":  "https://nl.aliexpress.com/item/1005012759372690.html",
+                          "aliexpress_price":  15.49,
+                          "selling_price":  46.47,
+                          "original_price":  83.69,
+                          "currency":  "EUR",
+                          "discount_percent":  44,
+                          "price_multiplier":  3,
+                          "last_price_check":  "2026-08-12T00:00:00Z",
+                          "price_history":  [
+                                                {
+                                                    "date":  "2026-08-12",
+                                                    "aliexpress_price":  15.49,
+                                                    "selling_price":  46.47
+                                                }
+                                            ],
+                          "rating":  "4.7",
+                          "sold":  "300+",
+                          "images":  [
+                                         "dutch-interactive-cat/product_1.jpg",
+                                         "dutch-interactive-cat/product_2.jpg",
+                                         "dutch-interactive-cat/product_3.jpg",
+                                         "dutch-interactive-cat/product_4.jpg",
+                                         "dutch-interactive-cat/product_5.jpg"
+                                     ],
+                          "features":  [
+                                           "Automatic rolling ball design",
+                                           "3 speed modes (fast, slow, interactive)",
+                                           "LED lights attract cat attention",
+                                           "USB rechargeable battery",
+                                           "Auto shut-off timer (5 min)",
+                                           "Works on all floor types"
+                                       ],
+                          "specs":  {
+                                        "Material":  "ABS Plastic + Faux Fur Cover",
+                                        "Battery":  "USB Rechargeable",
+                                        "Modes":  "3 (Fast, Slow, Interactive)",
+                                        "Target":  "Cats of all ages",
+                                        "Weight":  "180g",
+                                        "Theme":  "Pet/Tech"
+                                    },
+                          "pain_points":  [
+                                              {
+                                                  "icon":  "😩",
+                                                  "title":  "Boring Toys",
+                                                  "text":  "Static toys that cats ignore after 5 minutes."
+                                              },
+                                              {
+                                                  "icon":  "⚠️",
+                                                  "title":  "Battery Drain",
+                                                  "text":  "Toys that die quickly and need constant battery replacement."
+                                              },
+                                              {
+                                                  "icon":  "💔",
+                                                  "title":  "Stuck on Carpets",
+                                                  "text":  "Rolling toys that get stuck on rugs and corners."
+                                              }
+                                          ],
+                          "testimonials":  [
+                                               {
+                                                   "stars":  5,
+                                                   "text":  "My cat plays with this for hours! The auto shut-off is great.",
+                                                   "author":  "Jennifer M."
+                                               },
+                                               {
+                                                   "stars":  5,
+                                                   "text":  "Best cat toy I've ever bought. Works on my carpet perfectly.",
+                                                   "author":  "David R."
+                                               },
+                                               {
+                                                   "stars":  4,
+                                                   "text":  "Good quality but a bit loud on fast mode.",
+                                                   "author":  "Sarah K."
+                                               }
+                                           ],
+                          "faq":  [
+                                      {
+                                          "q":  "How long does the battery last?",
+                                          "a":  "USB rechargeable. Lasts 2-3 hours of active play per charge."
+                                      },
+                                      {
+                                          "q":  "Does it work on carpet?",
+                                          "a":  "Yes! Strong motor works on tile, wood, and low-pile carpet."
+                                      },
+                                      {
+                                          "q":  "Is it noisy?",
+                                          "a":  "Quiet on slow and interactive modes. Fast mode is slightly louder."
+                                      },
+                                      {
+                                          "q":  "What age is this for?",
+                                          "a":  "Suitable for cats of all ages. Kittens love the LED lights!"
+                                      },
+                                      {
+                                          "q":  "Returns?",
+                                          "a":  "30-day money-back guarantee."
+                                      }
+                                  ],
+                          "payment_link":  "https://trdefi.gumroad.com/l/SmartInteractiveCatToy",
+                          "gumroad_product_id":  "",
+                          "gumroad_permalink":  "SmartInteractiveCatToy",
+                          "category":  "pets",
+                          "blog_content":  {
+                                               "title":  "Interactive Cat Toys: Why Your Cat Needs One",
+                                               "sections":  [
+                                                                {
+                                                                    "heading":  "The Problem with Bored Cats",
+                                                                    "content":  "Indoor cats need mental and physical stimulation. Without it, they can develop behavioral issues like excessive scratching, over-grooming, or aggression. Interactive toys like this smart ball keep cats active, engaged, and healthy — even when you're not home."
+                                                                },
+                                                                {
+                                                                    "heading":  "How Smart Toys Work",
+                                                                    "content":  "This interactive ball uses motion sensors and AI to react to your cat's movements. It rolls, changes direction, and speeds up when touched. The LED lights attract attention, while the auto shut-off timer saves battery. Three modes let you customize the experience for your cat's personality."
+                                                                },
+                                                                {
+                                                                    "heading":  "Fun Facts & Collector's Notes",
+                                                                    "content":  [
+                                                                                    "Cats sleep 12-16 hours a day — active play helps them sleep better",
+                                                                                    "Interactive toys can reduce separation anxiety in indoor cats",
+                                                                                    "The auto shut-off feature prevents over-exhaustion",
+                                                                                    "USB rechargeable means no more buying batteries"
+                                                                                ]
+                                                                }
+                                                            ],
+                                               "tags":  [
+                                                            "#CatToy",
+                                                            "#InteractivePet",
+                                                            "#SmartPet",
+                                                            "#CatLover",
+                                                            "#PetTech",
+                                                            "#IndoorCat",
+                                                            "#CatGift"
+                                                        ]
+                                           }
+                      }
+                  ]
+}

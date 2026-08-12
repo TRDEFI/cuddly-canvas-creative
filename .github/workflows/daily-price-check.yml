@@ -1,0 +1,47 @@
+name: Daily Product Price Check
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Check AliExpress prices and sync product pages
+        run: npm run prices:update
+
+      - name: Validate production build
+        env:
+          NITRO_PRESET: netlify
+        run: npm run build
+
+      - name: Commit price changes
+        run: |
+          if git diff --quiet; then
+            echo "No price or page changes detected."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add products/catalog.json public/*.html
+          git commit -m "Update product prices"
+          git push

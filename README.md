@@ -22,3 +22,9 @@ cd <repository-name>
 npm i
 npm run dev
 ```
+
+## Daily Price Checks
+
+The scheduled workflow in `.github/workflows/daily-price-check.yml` runs every 24 hours at 03:00 UTC. It checks AliExpress prices, applies the 3x markup, updates the product pages and Product/Breadcrumb JSON-LD, commits changes, and lets the connected Netlify site deploy the commit.
+
+No Netlify token is required in GitHub Actions. If AliExpress presents a CAPTCHA or no reliable price is found, the workflow fails safely and does not publish an unverified price.

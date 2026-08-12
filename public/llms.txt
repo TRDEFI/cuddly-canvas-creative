@@ -1,0 +1,35 @@
+# PokePlush Online
+> PokePlush is an online store for collectible plush toys, anime figures, and mecha model kits.
+
+## Website
+- Homepage: https://pokeplush.online/
+- Full product catalog: https://pokeplush.online/products
+- Currency: EUR
+- Shipping: Free worldwide shipping
+- Returns: 30-day money-back guarantee
+- Checkout: Gumroad links on each product landing page
+
+## Products
+- /giratina-plush - Pokeball Giratina Plush - Official Bandai Collectible - EUR 29.22
+- /charizard-gmax - Charizard G-Max Wildfire Plush - 38cm Premium Anime Collectible - EUR 68.67
+- /dragonite-mega - Dragonite Mega Evolution Plush - Original Tomy Pocket Monsters - EUR 129.27
+- /beanie-boo-pooh - Beanie Boo Winnie the Pooh Plush - Soft Stuffed Animal Toy - EUR 19.62
+- /barbatos-gundam - MAX HG 1/144 Barbatos 4th Form Model Kit - EUR 27.09
+- /black-cat-plush - Kawaii Black Cat Plush Doll - EUR 6.24
+- /grey-cat-plush - Gray U-shaped Cat Plush Toy - EUR 27.57
+- /efreet-gundam - HG HGUC 1/144 Efreet Nacht Model Kit - EUR 36.57
+- /gengar-plush - Gengar Plush Toy - EUR 29.97
+- /pixel-wolf-plush - Pixel Wolf Plush Pillow - EUR 29.97
+- /onikuma-k20-pro - Hatake Kakashi Anime Naruto Figure - EUR 25.17
+- /gundam-aerial - Mini Robot Wall-e MOC Building Blocks - EUR 12.87
+- /dutch-cat-plush - Kawaii Dutch Cat Plush Toy - EUR 38.97
+- /dutch-interactive-cat - Smart Interactive Cat Toy Ball - EUR 46.47
+
+## Featured Homepage Selection
+The homepage features six products: Charizard G-Max, Dragonite Mega Evolution, Barbatos, Kakashi, Giratina, and Efreet Nacht. The complete 14-product catalog remains available at /products.
+
+## Product Pages
+Each product page includes product details, specifications, image galleries, FAQs, shipping and return information, and a Buy Now link to the corresponding Gumroad checkout.
+
+## Last Updated
+2026-08-12
