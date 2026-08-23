@@ -19,7 +19,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-21T03:54:05.089Z",
+      "last_price_check": "2026-08-23T03:54:50.019Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -38,6 +38,11 @@
         },
         {
           "date": "2026-08-21",
+          "aliexpress_price": 6.74,
+          "selling_price": 20.22
+        },
+        {
+          "date": "2026-08-23",
           "aliexpress_price": 6.74,
           "selling_price": 20.22
         }
@@ -164,13 +169,13 @@
       "subtitle": "38cm Premium Anime Collectible",
       "description": "Premium 38cm Charizard G-Max Wildfire plush toy. Soft PP cotton filling, anime-accurate design. Perfect for Pokemon collectors and fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012741388137.html",
-      "aliexpress_price": 12.31,
-      "selling_price": 36.93,
-      "original_price": 66.47,
+      "aliexpress_price": 14.28,
+      "selling_price": 42.84,
+      "original_price": 77.11,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-21T03:54:12.678Z",
+      "last_price_check": "2026-08-23T03:54:57.444Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -186,6 +191,11 @@
           "date": "2026-08-21",
           "aliexpress_price": 12.31,
           "selling_price": 36.93
+        },
+        {
+          "date": "2026-08-23",
+          "aliexpress_price": 14.28,
+          "selling_price": 42.84
         }
       ],
       "rating": "4.9",
@@ -318,7 +328,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-21T03:54:20.201Z",
+      "last_price_check": "2026-08-23T03:55:05.170Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -332,6 +342,11 @@
         },
         {
           "date": "2026-08-21",
+          "aliexpress_price": 44.66,
+          "selling_price": 133.98
+        },
+        {
+          "date": "2026-08-23",
           "aliexpress_price": 44.66,
           "selling_price": 133.98
         }
@@ -895,7 +910,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-21T03:55:05.455Z",
+      "last_price_check": "2026-08-23T03:55:52.610Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -909,6 +924,11 @@
         },
         {
           "date": "2026-08-21",
+          "aliexpress_price": 6.61,
+          "selling_price": 19.83
+        },
+        {
+          "date": "2026-08-23",
           "aliexpress_price": 6.61,
           "selling_price": 19.83
         }
@@ -1323,13 +1343,13 @@
       "subtitle": "Game Style Wolf Doll",
       "description": "Pixel Wolf Plush, Long Wolf Pillow, Tamed Wolf Stuffed Toy. Game Style Wolf Doll, Long Cushion Pillow, U-shaped Neck Pillow.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005012159075490.html",
-      "aliexpress_price": 9.47,
-      "selling_price": 28.41,
-      "original_price": 51.14,
+      "aliexpress_price": 2.26,
+      "selling_price": 6.78,
+      "original_price": 12.2,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-20T14:07:55.734Z",
+      "last_price_check": "2026-08-23T03:56:42.666Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1340,6 +1360,11 @@
           "date": "2026-08-20",
           "aliexpress_price": 9.47,
           "selling_price": 28.41
+        },
+        {
+          "date": "2026-08-23",
+          "aliexpress_price": 2.26,
+          "selling_price": 6.78
         }
       ],
       "rating": "4.7",
@@ -1751,13 +1776,13 @@
       "subtitle": "Soft Stuffed Animal Cat Doll",
       "description": "Adorable kawaii cat plush toy with soft PP cotton filling. Perfect for cat lovers, children, and collectors. Multiple sizes available.",
       "aliexpress_url": "https://nl.aliexpress.com/item/1005011692600313.html",
-      "aliexpress_price": 8.84,
-      "selling_price": 26.52,
-      "original_price": 47.74,
+      "aliexpress_price": 7.61,
+      "selling_price": 22.83,
+      "original_price": 41.09,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-20T14:07:55.734Z",
+      "last_price_check": "2026-08-23T03:57:33.207Z",
       "price_history": [
         {
           "date": "2026-08-12",
@@ -1768,6 +1793,11 @@
           "date": "2026-08-20",
           "aliexpress_price": 8.84,
           "selling_price": 26.52
+        },
+        {
+          "date": "2026-08-23",
+          "aliexpress_price": 7.61,
+          "selling_price": 22.83
         }
       ],
       "rating": "4.8",
@@ -1894,13 +1924,13 @@
       "subtitle": "Automatic Rolling Pet Toy",
       "description": "Smart interactive cat toy ball with automatic rolling, LED lights, and multiple speed modes. Keeps your cat active and entertained for hours.",
       "aliexpress_url": "https://nl.aliexpress.com/item/1005012759372690.html",
-      "aliexpress_price": 17.28,
-      "selling_price": 51.84,
-      "original_price": 93.31,
+      "aliexpress_price": 4.02,
+      "selling_price": 12.06,
+      "original_price": 21.71,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-20T14:07:55.734Z",
+      "last_price_check": "2026-08-23T03:57:40.879Z",
       "price_history": [
         {
           "date": "2026-08-12",
@@ -1911,6 +1941,11 @@
           "date": "2026-08-20",
           "aliexpress_price": 17.28,
           "selling_price": 51.84
+        },
+        {
+          "date": "2026-08-23",
+          "aliexpress_price": 4.02,
+          "selling_price": 12.06
         }
       ],
       "rating": "4.7",
