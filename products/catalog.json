@@ -19,7 +19,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-31T09:31:36.388Z",
+      "last_price_check": "2026-09-02T07:46:34.369Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -63,6 +63,11 @@
         },
         {
           "date": "2026-08-31",
+          "aliexpress_price": 6.74,
+          "selling_price": 20.22
+        },
+        {
+          "date": "2026-09-02",
           "aliexpress_price": 6.74,
           "selling_price": 20.22
         }
@@ -363,7 +368,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-31T09:31:52.863Z",
+      "last_price_check": "2026-09-02T07:46:49.633Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -402,6 +407,11 @@
         },
         {
           "date": "2026-08-31",
+          "aliexpress_price": 44.66,
+          "selling_price": 133.98
+        },
+        {
+          "date": "2026-09-02",
           "aliexpress_price": 44.66,
           "selling_price": 133.98
         }
@@ -970,7 +980,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-31T09:32:41.851Z",
+      "last_price_check": "2026-09-02T07:47:38.113Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1009,6 +1019,11 @@
         },
         {
           "date": "2026-08-31",
+          "aliexpress_price": 7.33,
+          "selling_price": 21.99
+        },
+        {
+          "date": "2026-09-02",
           "aliexpress_price": 7.33,
           "selling_price": 21.99
         }
