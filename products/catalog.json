@@ -13,13 +13,13 @@
       "subtitle": "Official Bandai Collectible",
       "description": "Premium 30cm Bandai plush with CE certification. Soft PP cotton filling, perfect for collectors and Pokemon fans aged 18+.",
       "aliexpress_url": "https://it.aliexpress.com/item/4000899226867.html",
-      "aliexpress_price": 6.74,
-      "selling_price": 20.22,
-      "original_price": 36.4,
+      "aliexpress_price": 6.75,
+      "selling_price": 20.25,
+      "original_price": 36.45,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-02T07:46:34.369Z",
+      "last_price_check": "2026-09-03T07:55:09.203Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -70,6 +70,11 @@
           "date": "2026-09-02",
           "aliexpress_price": 6.74,
           "selling_price": 20.22
+        },
+        {
+          "date": "2026-09-03",
+          "aliexpress_price": 6.75,
+          "selling_price": 20.25
         }
       ],
       "rating": "5.0",
@@ -362,13 +367,13 @@
       "subtitle": "Original Tomy Pocket Monsters",
       "description": "Original Tomy Pocket Monsters Dragonite Mega Evolution plush. Large size, soft stuffed design. Perfect for collectors and Pokemon fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012600087315.html",
-      "aliexpress_price": 44.66,
-      "selling_price": 133.98,
-      "original_price": 241.16,
+      "aliexpress_price": 44.68,
+      "selling_price": 134.04,
+      "original_price": 241.27,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-02T07:46:49.633Z",
+      "last_price_check": "2026-09-03T07:55:25.365Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -414,6 +419,11 @@
           "date": "2026-09-02",
           "aliexpress_price": 44.66,
           "selling_price": 133.98
+        },
+        {
+          "date": "2026-09-03",
+          "aliexpress_price": 44.68,
+          "selling_price": 134.04
         }
       ],
       "rating": "4.7",
@@ -974,13 +984,13 @@
       "subtitle": "Children's Gift Cat Doll",
       "description": "Gray U-shaped plush toy cat doll. Perfect children's gift, soft and cuddly design for kids and cat lovers.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005010285400757.html",
-      "aliexpress_price": 7.33,
-      "selling_price": 21.99,
-      "original_price": 39.58,
+      "aliexpress_price": 7.34,
+      "selling_price": 22.02,
+      "original_price": 39.64,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-02T07:47:38.113Z",
+      "last_price_check": "2026-09-03T07:56:12.424Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1026,6 +1036,11 @@
           "date": "2026-09-02",
           "aliexpress_price": 7.33,
           "selling_price": 21.99
+        },
+        {
+          "date": "2026-09-03",
+          "aliexpress_price": 7.34,
+          "selling_price": 22.02
         }
       ],
       "rating": "4.9",
