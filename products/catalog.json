@@ -13,13 +13,13 @@
       "subtitle": "Official Bandai Collectible",
       "description": "Premium 30cm Bandai plush with CE certification. Soft PP cotton filling, perfect for collectors and Pokemon fans aged 18+.",
       "aliexpress_url": "https://it.aliexpress.com/item/4000899226867.html",
-      "aliexpress_price": 6.85,
-      "selling_price": 20.55,
-      "original_price": 36.99,
+      "aliexpress_price": 6.84,
+      "selling_price": 20.52,
+      "original_price": 36.94,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-14T08:43:31.005Z",
+      "last_price_check": "2026-09-16T08:25:15.217Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -90,6 +90,11 @@
           "date": "2026-09-14",
           "aliexpress_price": 6.85,
           "selling_price": 20.55
+        },
+        {
+          "date": "2026-09-16",
+          "aliexpress_price": 6.84,
+          "selling_price": 20.52
         }
       ],
       "rating": "5.0",
@@ -214,13 +219,13 @@
       "subtitle": "38cm Premium Anime Collectible",
       "description": "Premium 38cm Charizard G-Max Wildfire plush toy. Soft PP cotton filling, anime-accurate design. Perfect for Pokemon collectors and fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012741388137.html",
-      "aliexpress_price": 13.87,
-      "selling_price": 41.61,
-      "original_price": 74.9,
+      "aliexpress_price": 13.86,
+      "selling_price": 41.58,
+      "original_price": 74.84,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-14T08:43:38.786Z",
+      "last_price_check": "2026-09-16T08:25:22.794Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -266,6 +271,11 @@
           "date": "2026-09-14",
           "aliexpress_price": 13.87,
           "selling_price": 41.61
+        },
+        {
+          "date": "2026-09-16",
+          "aliexpress_price": 13.86,
+          "selling_price": 41.58
         }
       ],
       "rating": "4.9",
@@ -392,13 +402,13 @@
       "subtitle": "Original Tomy Pocket Monsters",
       "description": "Original Tomy Pocket Monsters Dragonite Mega Evolution plush. Large size, soft stuffed design. Perfect for collectors and Pokemon fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012600087315.html",
-      "aliexpress_price": 44.86,
-      "selling_price": 134.58,
-      "original_price": 242.24,
+      "aliexpress_price": 44.83,
+      "selling_price": 134.49,
+      "original_price": 242.08,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-14T08:43:47.354Z",
+      "last_price_check": "2026-09-16T08:25:30.237Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -464,6 +474,11 @@
           "date": "2026-09-14",
           "aliexpress_price": 44.86,
           "selling_price": 134.58
+        },
+        {
+          "date": "2026-09-16",
+          "aliexpress_price": 44.83,
+          "selling_price": 134.49
         }
       ],
       "rating": "4.7",
@@ -596,7 +611,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-14T08:43:57.250Z",
+      "last_price_check": "2026-09-16T08:25:39.321Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -620,6 +635,11 @@
         },
         {
           "date": "2026-09-14",
+          "aliexpress_price": 1,
+          "selling_price": 3
+        },
+        {
+          "date": "2026-09-16",
           "aliexpress_price": 1,
           "selling_price": 3
         }
@@ -1034,13 +1054,13 @@
       "subtitle": "Children's Gift Cat Doll",
       "description": "Gray U-shaped plush toy cat doll. Perfect children's gift, soft and cuddly design for kids and cat lovers.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005010285400757.html",
-      "aliexpress_price": 6.73,
-      "selling_price": 20.19,
-      "original_price": 36.34,
+      "aliexpress_price": 6.87,
+      "selling_price": 20.61,
+      "original_price": 37.1,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-14T08:44:36.561Z",
+      "last_price_check": "2026-09-16T08:26:15.947Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1106,6 +1126,11 @@
           "date": "2026-09-14",
           "aliexpress_price": 6.73,
           "selling_price": 20.19
+        },
+        {
+          "date": "2026-09-16",
+          "aliexpress_price": 6.87,
+          "selling_price": 20.61
         }
       ],
       "rating": "4.9",
