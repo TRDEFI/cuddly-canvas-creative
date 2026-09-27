@@ -19,7 +19,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-26T08:27:13.051Z",
+      "last_price_check": "2026-09-27T09:05:08.110Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -118,6 +118,11 @@
         },
         {
           "date": "2026-09-26",
+          "aliexpress_price": 6.84,
+          "selling_price": 20.52
+        },
+        {
+          "date": "2026-09-27",
           "aliexpress_price": 6.84,
           "selling_price": 20.52
         }
@@ -250,7 +255,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-26T08:27:21.861Z",
+      "last_price_check": "2026-09-27T09:05:14.151Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -324,6 +329,11 @@
         },
         {
           "date": "2026-09-26",
+          "aliexpress_price": 21.15,
+          "selling_price": 63.45
+        },
+        {
+          "date": "2026-09-27",
           "aliexpress_price": 21.15,
           "selling_price": 63.45
         }
@@ -458,7 +468,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-26T08:27:30.439Z",
+      "last_price_check": "2026-09-27T09:05:22.072Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -552,6 +562,11 @@
         },
         {
           "date": "2026-09-26",
+          "aliexpress_price": 44.8,
+          "selling_price": 134.4
+        },
+        {
+          "date": "2026-09-27",
           "aliexpress_price": 44.8,
           "selling_price": 134.4
         }
@@ -686,7 +701,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-26T08:27:39.434Z",
+      "last_price_check": "2026-09-27T09:05:29.743Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -740,6 +755,11 @@
         },
         {
           "date": "2026-09-26",
+          "aliexpress_price": 1,
+          "selling_price": 3
+        },
+        {
+          "date": "2026-09-27",
           "aliexpress_price": 1,
           "selling_price": 3
         }
