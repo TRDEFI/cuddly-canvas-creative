@@ -13,13 +13,13 @@
       "subtitle": "Official Bandai Collectible",
       "description": "Premium 30cm Bandai plush with CE certification. Soft PP cotton filling, perfect for collectors and Pokemon fans aged 18+.",
       "aliexpress_url": "https://it.aliexpress.com/item/4000899226867.html",
-      "aliexpress_price": 6.84,
-      "selling_price": 20.52,
-      "original_price": 36.94,
+      "aliexpress_price": 10.09,
+      "selling_price": 30.27,
+      "original_price": 54.49,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-01T09:55:53.768Z",
+      "last_price_check": "2026-10-06T09:56:20.896Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -135,6 +135,11 @@
           "date": "2026-10-01",
           "aliexpress_price": 6.84,
           "selling_price": 20.52
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 10.09,
+          "selling_price": 30.27
         }
       ],
       "rating": "5.0",
@@ -259,13 +264,13 @@
       "subtitle": "38cm Premium Anime Collectible",
       "description": "Premium 38cm Charizard G-Max Wildfire plush toy. Soft PP cotton filling, anime-accurate design. Perfect for Pokemon collectors and fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012741388137.html",
-      "aliexpress_price": 8.71,
-      "selling_price": 26.13,
-      "original_price": 47.03,
+      "aliexpress_price": 23,
+      "selling_price": 69,
+      "original_price": 124.2,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-01T09:56:02.134Z",
+      "last_price_check": "2026-10-06T09:56:28.570Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -356,6 +361,11 @@
           "date": "2026-10-01",
           "aliexpress_price": 8.71,
           "selling_price": 26.13
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 23,
+          "selling_price": 69
         }
       ],
       "rating": "4.9",
@@ -482,13 +492,13 @@
       "subtitle": "Original Tomy Pocket Monsters",
       "description": "Original Tomy Pocket Monsters Dragonite Mega Evolution plush. Large size, soft stuffed design. Perfect for collectors and Pokemon fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012600087315.html",
-      "aliexpress_price": 44.83,
-      "selling_price": 134.49,
-      "original_price": 242.08,
+      "aliexpress_price": 64.42,
+      "selling_price": 193.26,
+      "original_price": 347.87,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-01T09:56:10.512Z",
+      "last_price_check": "2026-10-06T09:56:35.893Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -599,6 +609,11 @@
           "date": "2026-10-01",
           "aliexpress_price": 44.83,
           "selling_price": 134.49
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 64.42,
+          "selling_price": 193.26
         }
       ],
       "rating": "4.7",
@@ -725,13 +740,13 @@
       "subtitle": "Soft Stuffed Animal Toy",
       "description": "Adorable Beanie Boo Winnie the Pooh plush toy. Soft stuffed animal design, perfect gift for children and Disney fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012258423887.html",
-      "aliexpress_price": 1,
-      "selling_price": 3,
-      "original_price": 5.4,
+      "aliexpress_price": 2.43,
+      "selling_price": 7.29,
+      "original_price": 13.12,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-01T09:56:19.240Z",
+      "last_price_check": "2026-10-06T09:56:44.076Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -802,6 +817,11 @@
           "date": "2026-10-01",
           "aliexpress_price": 1,
           "selling_price": 3
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 2.43,
+          "selling_price": 7.29
         }
       ],
       "rating": "4.9",
@@ -1071,13 +1091,13 @@
       "subtitle": "Cute Round Ball Cat Keychain",
       "description": "7/11/20CM Kawaii Small Cuddly Black Cat Plush Doll. Cartoon Stuffed Round Ball Cat Plushie, perfect as a bag keychain pendant toy.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005005062716905.html",
-      "aliexpress_price": 2.59,
-      "selling_price": 7.77,
-      "original_price": 13.99,
+      "aliexpress_price": 1.44,
+      "selling_price": 4.32,
+      "original_price": 7.78,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-20T16:50:05.067Z",
+      "last_price_check": "2026-10-06T09:56:59.433Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1088,6 +1108,11 @@
           "date": "2026-08-20",
           "aliexpress_price": 2.59,
           "selling_price": 7.77
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 1.44,
+          "selling_price": 4.32
         }
       ],
       "rating": "4.6",
@@ -1214,13 +1239,13 @@
       "subtitle": "Children's Gift Cat Doll",
       "description": "Gray U-shaped plush toy cat doll. Perfect children's gift, soft and cuddly design for kids and cat lovers.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005010285400757.html",
-      "aliexpress_price": 6.72,
-      "selling_price": 20.16,
-      "original_price": 36.29,
+      "aliexpress_price": 17.38,
+      "selling_price": 52.14,
+      "original_price": 93.85,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-01T09:56:58.662Z",
+      "last_price_check": "2026-10-06T09:57:07.191Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1321,6 +1346,11 @@
           "date": "2026-10-01",
           "aliexpress_price": 6.72,
           "selling_price": 20.16
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 17.38,
+          "selling_price": 52.14
         }
       ],
       "rating": "4.9",
@@ -1590,13 +1620,13 @@
       "subtitle": "Pokemon Stuffed Animal",
       "description": "Gengar Plush Toys Peluche Stuffed Cartoon For Kids Pokemon. Soft stuffed animal collectible, cute cartoon character design.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005007385229746.html",
-      "aliexpress_price": 12.58,
-      "selling_price": 37.74,
-      "original_price": 67.93,
+      "aliexpress_price": 4.15,
+      "selling_price": 12.45,
+      "original_price": 22.41,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-20T14:07:55.734Z",
+      "last_price_check": "2026-10-06T09:57:21.602Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1607,6 +1637,11 @@
           "date": "2026-08-20",
           "aliexpress_price": 12.58,
           "selling_price": 37.74
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 4.15,
+          "selling_price": 12.45
         }
       ],
       "rating": "4.8",
@@ -1733,13 +1768,13 @@
       "subtitle": "Game Style Wolf Doll",
       "description": "Pixel Wolf Plush, Long Wolf Pillow, Tamed Wolf Stuffed Toy. Game Style Wolf Doll, Long Cushion Pillow, U-shaped Neck Pillow.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005012159075490.html",
-      "aliexpress_price": 2.28,
-      "selling_price": 6.84,
-      "original_price": 12.31,
+      "aliexpress_price": 13.39,
+      "selling_price": 40.17,
+      "original_price": 72.31,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-09-17T08:33:01.366Z",
+      "last_price_check": "2026-10-06T09:57:29.327Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1765,6 +1800,11 @@
           "date": "2026-09-17",
           "aliexpress_price": 2.28,
           "selling_price": 6.84
+        },
+        {
+          "date": "2026-10-06",
+          "aliexpress_price": 13.39,
+          "selling_price": 40.17
         }
       ],
       "rating": "4.7",
