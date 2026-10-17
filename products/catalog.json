@@ -19,7 +19,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-15T08:07:28.891Z",
+      "last_price_check": "2026-10-17T07:38:44.071Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -160,6 +160,11 @@
           "date": "2026-10-15",
           "aliexpress_price": 6.85,
           "selling_price": 20.55
+        },
+        {
+          "date": "2026-10-17",
+          "aliexpress_price": 6.85,
+          "selling_price": 20.55
         }
       ],
       "rating": "5.0",
@@ -284,13 +289,13 @@
       "subtitle": "38cm Premium Anime Collectible",
       "description": "Premium 38cm Charizard G-Max Wildfire plush toy. Soft PP cotton filling, anime-accurate design. Perfect for Pokemon collectors and fans.",
       "aliexpress_url": "https://it.aliexpress.com/item/1005012741388137.html",
-      "aliexpress_price": 15.44,
-      "selling_price": 46.32,
-      "original_price": 83.38,
+      "aliexpress_price": 15.9,
+      "selling_price": 47.7,
+      "original_price": 85.86,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-15T08:07:34.979Z",
+      "last_price_check": "2026-10-17T07:38:52.915Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -406,6 +411,11 @@
           "date": "2026-10-15",
           "aliexpress_price": 15.44,
           "selling_price": 46.32
+        },
+        {
+          "date": "2026-10-17",
+          "aliexpress_price": 15.9,
+          "selling_price": 47.7
         }
       ],
       "rating": "4.9",
@@ -791,7 +801,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-15T08:07:49.612Z",
+      "last_price_check": "2026-10-17T07:39:09.247Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -890,6 +900,11 @@
         },
         {
           "date": "2026-10-15",
+          "aliexpress_price": 1,
+          "selling_price": 3
+        },
+        {
+          "date": "2026-10-17",
           "aliexpress_price": 1,
           "selling_price": 3
         }
@@ -1161,13 +1176,13 @@
       "subtitle": "Cute Round Ball Cat Keychain",
       "description": "7/11/20CM Kawaii Small Cuddly Black Cat Plush Doll. Cartoon Stuffed Round Ball Cat Plushie, perfect as a bag keychain pendant toy.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005005062716905.html",
-      "aliexpress_price": 1.44,
-      "selling_price": 4.32,
-      "original_price": 7.78,
+      "aliexpress_price": 1,
+      "selling_price": 3,
+      "original_price": 5.4,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-06T09:56:59.433Z",
+      "last_price_check": "2026-10-17T07:39:25.820Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1183,6 +1198,11 @@
           "date": "2026-10-06",
           "aliexpress_price": 1.44,
           "selling_price": 4.32
+        },
+        {
+          "date": "2026-10-17",
+          "aliexpress_price": 1,
+          "selling_price": 3
         }
       ],
       "rating": "4.6",
@@ -1309,13 +1329,13 @@
       "subtitle": "Children's Gift Cat Doll",
       "description": "Gray U-shaped plush toy cat doll. Perfect children's gift, soft and cuddly design for kids and cat lovers.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005010285400757.html",
-      "aliexpress_price": 6.38,
-      "selling_price": 19.14,
-      "original_price": 34.45,
+      "aliexpress_price": 6.89,
+      "selling_price": 20.67,
+      "original_price": 37.21,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-07T10:03:21.459Z",
+      "last_price_check": "2026-10-17T07:39:35.159Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1426,6 +1446,11 @@
           "date": "2026-10-07",
           "aliexpress_price": 6.38,
           "selling_price": 19.14
+        },
+        {
+          "date": "2026-10-17",
+          "aliexpress_price": 6.89,
+          "selling_price": 20.67
         }
       ],
       "rating": "4.9",
@@ -1552,13 +1577,13 @@
       "subtitle": "Mech Assembly Action Figure",
       "description": "HG HGUC 1/144 scale Efreet Nacht Mech Assembly Model Kit. Action figures with desktop decoration doll. Perfect gift for boys and collectors.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005008660133883.html",
-      "aliexpress_price": 10.23,
-      "selling_price": 30.69,
-      "original_price": 55.24,
+      "aliexpress_price": 10.81,
+      "selling_price": 32.43,
+      "original_price": 58.37,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-20T16:50:05.067Z",
+      "last_price_check": "2026-10-17T07:39:43.469Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1569,6 +1594,11 @@
           "date": "2026-08-20",
           "aliexpress_price": 10.23,
           "selling_price": 30.69
+        },
+        {
+          "date": "2026-10-17",
+          "aliexpress_price": 10.81,
+          "selling_price": 32.43
         }
       ],
       "rating": "4.9",
@@ -2439,13 +2469,13 @@
       "subtitle": "Automatic Rolling Pet Toy",
       "description": "Smart interactive cat toy ball with automatic rolling, LED lights, and multiple speed modes. Keeps your cat active and entertained for hours.",
       "aliexpress_url": "https://nl.aliexpress.com/item/1005012759372690.html",
-      "aliexpress_price": 4.02,
-      "selling_price": 12.06,
-      "original_price": 21.71,
+      "aliexpress_price": 4.13,
+      "selling_price": 12.39,
+      "original_price": 22.3,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-08-23T03:57:40.879Z",
+      "last_price_check": "2026-10-17T07:41:12.210Z",
       "price_history": [
         {
           "date": "2026-08-12",
@@ -2461,6 +2491,11 @@
           "date": "2026-08-23",
           "aliexpress_price": 4.02,
           "selling_price": 12.06
+        },
+        {
+          "date": "2026-10-17",
+          "aliexpress_price": 4.13,
+          "selling_price": 12.39
         }
       ],
       "rating": "4.7",
