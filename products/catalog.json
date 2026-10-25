@@ -19,7 +19,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-24T07:59:24.227Z",
+      "last_price_check": "2026-10-25T08:14:59.584Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -175,6 +175,11 @@
           "date": "2026-10-24",
           "aliexpress_price": 6.89,
           "selling_price": 20.67
+        },
+        {
+          "date": "2026-10-25",
+          "aliexpress_price": 6.89,
+          "selling_price": 20.67
         }
       ],
       "rating": "5.0",
@@ -305,7 +310,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-24T07:59:32.553Z",
+      "last_price_check": "2026-10-25T08:15:08.041Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -434,6 +439,11 @@
         },
         {
           "date": "2026-10-24",
+          "aliexpress_price": 16.88,
+          "selling_price": 50.64
+        },
+        {
+          "date": "2026-10-25",
           "aliexpress_price": 16.88,
           "selling_price": 50.64
         }
@@ -568,7 +578,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-24T07:59:40.969Z",
+      "last_price_check": "2026-10-25T08:15:16.478Z",
       "price_history": [
         {
           "date": "2026-08-09",
@@ -697,6 +707,11 @@
         },
         {
           "date": "2026-10-24",
+          "aliexpress_price": 45.16,
+          "selling_price": 135.48
+        },
+        {
+          "date": "2026-10-25",
           "aliexpress_price": 45.16,
           "selling_price": 135.48
         }
@@ -1370,7 +1385,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-24T08:00:27.623Z",
+      "last_price_check": "2026-10-25T08:16:03.057Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1494,6 +1509,11 @@
         },
         {
           "date": "2026-10-24",
+          "aliexpress_price": 6.98,
+          "selling_price": 20.94
+        },
+        {
+          "date": "2026-10-25",
           "aliexpress_price": 6.98,
           "selling_price": 20.94
         }
@@ -1622,13 +1642,13 @@
       "subtitle": "Mech Assembly Action Figure",
       "description": "HG HGUC 1/144 scale Efreet Nacht Mech Assembly Model Kit. Action figures with desktop decoration doll. Perfect gift for boys and collectors.",
       "aliexpress_url": "https://www.aliexpress.com/item/1005008660133883.html",
-      "aliexpress_price": 10.81,
-      "selling_price": 32.43,
-      "original_price": 58.37,
+      "aliexpress_price": 10.85,
+      "selling_price": 32.55,
+      "original_price": 58.59,
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-17T07:39:43.469Z",
+      "last_price_check": "2026-10-25T08:16:11.374Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1644,6 +1664,11 @@
           "date": "2026-10-17",
           "aliexpress_price": 10.81,
           "selling_price": 32.43
+        },
+        {
+          "date": "2026-10-25",
+          "aliexpress_price": 10.85,
+          "selling_price": 32.55
         }
       ],
       "rating": "4.9",
