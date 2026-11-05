@@ -7,7 +7,10 @@ const CATALOG_PATH = path.join(ROOT, "products", "catalog.json");
 const PUBLIC_PATH = path.join(ROOT, "public");
 const TODAY = new Date().toISOString().slice(0, 10);
 
-const conversionRates = { EUR: 1, USD: 0.92, GBP: 1.17, TRY: 0.028 };
+// The catalogue is built from USD prices and stored in EUR. Anything outside
+// these three is either a stale rate or a geo quirk of the runner, and writing
+// it would move a price by tens of percent without anyone noticing.
+const conversionRates = { EUR: 1, USD: 0.92, GBP: 1.17 };
 
 function round(value) {
   return Number(value.toFixed(2));
@@ -79,6 +82,31 @@ async function syncProductPage(product) {
   await fs.writeFile(pagePath, html, "utf8");
 }
 
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+// AliExpress answers a datacenter IP with an empty or blocked page now and then,
+// and a single miss used to be enough to lose the whole product for the day.
+// Retry the same product a few times before giving up on it.
+const RETRY_DELAYS = [5000, 15000, 45000];
+
+async function scrapeWithRetry(product) {
+  let lastError;
+  for (let attempt = 0; attempt <= RETRY_DELAYS.length; attempt += 1) {
+    try {
+      return await scrapeAliExpressPrice(product);
+    } catch (error) {
+      lastError = error;
+      if (attempt === RETRY_DELAYS.length) break;
+      const wait = RETRY_DELAYS[attempt] + Math.round(Math.random() * 3000);
+      console.warn(
+        `${product.id}: attempt ${attempt + 1} failed (${error.message.slice(0, 90)}); retrying in ${Math.round(wait / 1000)}s`,
+      );
+      await sleep(wait);
+    }
+  }
+  throw lastError;
+}
+
 async function scrapeAliExpressPrice(product) {
   const match = product.aliexpress_url.match(/\/item\/(\d+)\.html/);
   if (!match) throw new Error("AliExpress product ID missing from URL");
@@ -89,11 +117,14 @@ async function scrapeAliExpressPrice(product) {
     puppeteerOptions: { headless: "new", args: ["--no-sandbox", "--disable-setuid-sandbox"] },
   });
   const currency = data.currencyInfo?.currencyCode ?? data.salePrice?.min?.currency;
-  let sourcePrice = data.salePrice?.min?.value;
+  const sourcePrice = data.salePrice?.min?.value;
   if (typeof sourcePrice !== "number" || !currency)
     throw new Error("No sale price in AliExpress API response");
-  if (currency === "TRY" && sourcePrice > 1000) sourcePrice /= 100;
-  const normalizedPrice = sourcePrice * (conversionRates[currency] ?? 1);
+  if (!(currency in conversionRates))
+    throw new Error(
+      `Unsupported currency ${currency} - refusing to convert it; expected one of ${Object.keys(conversionRates).join(", ")}`,
+    );
+  const normalizedPrice = sourcePrice * conversionRates[currency];
   if (normalizedPrice < 1 || normalizedPrice > 500)
     throw new Error(`Unreasonable source price: ${normalizedPrice}`);
   return round(normalizedPrice);
@@ -109,49 +140,75 @@ async function syncOnly(catalog) {
   console.log(`Synchronized ${catalog.products.length} product pages.`);
 }
 
+let priceChanged = false;
+
+function applySourcePrice(product, sourcePrice) {
+  const oldSourcePrice = product.aliexpress_price;
+  if (
+    oldSourcePrice > 0 &&
+    (sourcePrice > oldSourcePrice * 10 || sourcePrice < oldSourcePrice / 10)
+  ) {
+    console.warn(
+      `Skipped suspicious price for ${product.id}: ${sourcePrice} vs ${oldSourcePrice}`,
+    );
+    return false;
+  }
+  const sellingPrice = round(sourcePrice * (product.price_multiplier || 3));
+  product.aliexpress_price = sourcePrice;
+  product.selling_price = sellingPrice;
+  product.original_price = round(sellingPrice * 1.8);
+  product.discount_percent = Math.round((1 - sellingPrice / product.original_price) * 100);
+  product.last_price_check = new Date().toISOString();
+  product.price_history ??= [];
+  if (product.price_history.at(-1)?.date !== TODAY) {
+    product.price_history.push({
+      date: TODAY,
+      aliexpress_price: sourcePrice,
+      selling_price: sellingPrice,
+    });
+    product.price_history = product.price_history.slice(-90);
+  }
+  if (oldSourcePrice !== sourcePrice) priceChanged = true;
+  console.log(`${product.id}: ${oldSourcePrice} -> ${sourcePrice}`);
+  return true;
+}
+
 async function updatePrices(catalog) {
   let successfulChecks = 0;
-  let changed = false;
+  const failures = [];
 
   for (const product of catalog.products) {
     try {
-      const sourcePrice = await scrapeAliExpressPrice(product);
-      const oldSourcePrice = product.aliexpress_price;
-      if (
-        oldSourcePrice > 0 &&
-        (sourcePrice > oldSourcePrice * 10 || sourcePrice < oldSourcePrice / 10)
-      ) {
-        console.warn(
-          `Skipped suspicious price for ${product.id}: ${sourcePrice} vs ${oldSourcePrice}`,
-        );
-        continue;
-      }
-      const sellingPrice = round(sourcePrice * (product.price_multiplier || 3));
-      product.aliexpress_price = sourcePrice;
-      product.selling_price = sellingPrice;
-      product.original_price = round(sellingPrice * 1.8);
-      product.discount_percent = Math.round((1 - sellingPrice / product.original_price) * 100);
-      product.last_price_check = new Date().toISOString();
-      product.price_history ??= [];
-      if (product.price_history.at(-1)?.date !== TODAY) {
-        product.price_history.push({
-          date: TODAY,
-          aliexpress_price: sourcePrice,
-          selling_price: sellingPrice,
-        });
-        product.price_history = product.price_history.slice(-90);
-      }
-      successfulChecks += 1;
-      changed = changed || oldSourcePrice !== sourcePrice;
-      console.log(`${product.id}: €${oldSourcePrice} -> €${sourcePrice}`);
+      const sourcePrice = await scrapeWithRetry(product);
+      if (applySourcePrice(product, sourcePrice)) successfulChecks += 1;
     } catch (error) {
       console.warn(`${product.id}: ${error.message}`);
+      failures.push(product);
     }
-    await new Promise((resolve) => setTimeout(resolve, 2000));
+    await sleep(2000);
+  }
+
+  // The misses are usually one block window rather than a broken product, so
+  // give them a second sweep once the first pass has finished.
+  if (failures.length > 0 && successfulChecks > 0) {
+    console.log(`Second sweep for ${failures.length} product(s) in 60s.`);
+    await sleep(60000);
+    for (const product of failures) {
+      try {
+        const sourcePrice = await scrapeWithRetry(product);
+        if (applySourcePrice(product, sourcePrice)) successfulChecks += 1;
+      } catch (error) {
+        console.warn(`${product.id}: still failing - ${error.message}`);
+      }
+      await sleep(2000);
+    }
   }
 
   if (successfulChecks === 0) {
-    throw new Error("No product prices were verified; refusing to publish a price update.");
+    throw new Error(
+      `No product prices were verified out of ${catalog.products.length}; refusing to publish a price update. ` +
+        "AliExpress most likely blocked this runner IP - the same scrape succeeds from a residential IP.",
+    );
   }
 
   for (const product of catalog.products) {
@@ -160,11 +217,16 @@ async function updatePrices(catalog) {
   }
   await fs.writeFile(CATALOG_PATH, JSON.stringify(catalog, null, 2));
   console.log(
-    `Verified ${successfulChecks}/${catalog.products.length} products. Changes: ${changed}.`,
+    `Verified ${successfulChecks}/${catalog.products.length} products. Changes: ${priceChanged}.`,
   );
 }
 
 const catalog = JSON.parse(await fs.readFile(CATALOG_PATH, "utf8"));
+const limitArg = process.argv.find((arg) => arg.startsWith("--limit="));
+if (limitArg) {
+  const limit = Number(limitArg.split("=")[1]);
+  if (Number.isInteger(limit) && limit > 0) catalog.products = catalog.products.slice(0, limit);
+}
 if (process.argv.includes("--sync-only")) {
   await syncOnly(catalog);
 } else {
