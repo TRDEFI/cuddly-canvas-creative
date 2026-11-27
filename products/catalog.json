@@ -1462,7 +1462,7 @@
       "currency": "EUR",
       "discount_percent": 44,
       "price_multiplier": 3,
-      "last_price_check": "2026-10-17T07:39:25.820Z",
+      "last_price_check": "2026-11-27T12:08:34.573Z",
       "price_history": [
         {
           "date": "2026-08-10",
@@ -1481,6 +1481,11 @@
         },
         {
           "date": "2026-10-17",
+          "aliexpress_price": 1,
+          "selling_price": 3
+        },
+        {
+          "date": "2026-11-27",
           "aliexpress_price": 1,
           "selling_price": 3
         }
